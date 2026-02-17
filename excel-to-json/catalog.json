@@ -1,0 +1,7716 @@
+[
+  {
+    "NUMBER": null,
+    "DISCR": null,
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 0
+  },
+  {
+    "NUMBER": "1001D",
+    "DISCR": "Tat",
+    "DIA": "355",
+    "HEIGHT": null,
+    "PRICE": 19236
+  },
+  {
+    "NUMBER": "1001E",
+    "DISCR": "Tat",
+    "DIA": "330",
+    "HEIGHT": null,
+    "PRICE": 16885
+  },
+  {
+    "NUMBER": "1001F",
+    "DISCR": "Tat",
+    "DIA": "305",
+    "HEIGHT": null,
+    "PRICE": 14484
+  },
+  {
+    "NUMBER": "1001G",
+    "DISCR": "TAT",
+    "DIA": "280",
+    "HEIGHT": "155",
+    "PRICE": 12172
+  },
+  {
+    "NUMBER": "1002A",
+    "DISCR": "ROND PLATE FANCY",
+    "DIA": "320",
+    "HEIGHT": "17",
+    "PRICE": 16416
+  },
+  {
+    "NUMBER": "1002B",
+    "DISCR": "ROND PLATE FANCY",
+    "DIA": "290",
+    "HEIGHT": "17",
+    "PRICE": 14834
+  },
+  {
+    "NUMBER": "1002C",
+    "DISCR": "ROND PLATE FANCY",
+    "DIA": "260",
+    "HEIGHT": "17",
+    "PRICE": 13485
+  },
+  {
+    "NUMBER": "1002D",
+    "DISCR": "ROND PLATE FANCY",
+    "DIA": "260",
+    "HEIGHT": "17",
+    "PRICE": 11212
+  },
+  {
+    "NUMBER": "1003A",
+    "DISCR": "ROUND PLATE FANCY WITH BORDER",
+    "DIA": "305",
+    "HEIGHT": null,
+    "PRICE": 15620
+  },
+  {
+    "NUMBER": "1003B",
+    "DISCR": "ROUND PLATE FANCY WITH BORDER",
+    "DIA": "265",
+    "HEIGHT": null,
+    "PRICE": 14154
+  },
+  {
+    "NUMBER": "1003D",
+    "DISCR": "QUATER PLATE FANCY WIH BORDER",
+    "DIA": "205",
+    "HEIGHT": null,
+    "PRICE": 8895
+  },
+  {
+    "NUMBER": "1101B",
+    "DISCR": "Thal",
+    "DIA": "385",
+    "HEIGHT": null,
+    "PRICE": 24687
+  },
+  {
+    "NUMBER": "1101C",
+    "DISCR": "Thal",
+    "DIA": "350",
+    "HEIGHT": null,
+    "PRICE": 21494
+  },
+  {
+    "NUMBER": "1101Cd",
+    "DISCR": "Thal",
+    "DIA": "350",
+    "HEIGHT": null,
+    "PRICE": 28414
+  },
+  {
+    "NUMBER": "1101D",
+    "DISCR": "Thal",
+    "DIA": "330",
+    "HEIGHT": null,
+    "PRICE": 18913
+  },
+  {
+    "NUMBER": "1101Dd",
+    "DISCR": "Thal",
+    "DIA": "330",
+    "HEIGHT": null,
+    "PRICE": 25447
+  },
+  {
+    "NUMBER": "1101E",
+    "DISCR": "Thal",
+    "DIA": "305",
+    "HEIGHT": null,
+    "PRICE": 16441
+  },
+  {
+    "NUMBER": "1101Ed",
+    "DISCR": "Thal",
+    "DIA": "305",
+    "HEIGHT": null,
+    "PRICE": 22465
+  },
+  {
+    "NUMBER": "1104C",
+    "DISCR": "Deca Thal",
+    "DIA": "370",
+    "HEIGHT": "25",
+    "PRICE": 20196
+  },
+  {
+    "NUMBER": "1104D",
+    "DISCR": "Deca Thal",
+    "DIA": "340",
+    "HEIGHT": "23",
+    "PRICE": 17734
+  },
+  {
+    "NUMBER": "1104E",
+    "DISCR": "Deca Thali",
+    "DIA": "315",
+    "HEIGHT": "22",
+    "PRICE": 15565
+  },
+  {
+    "NUMBER": "1105C",
+    "DISCR": "Khumcha",
+    "DIA": "375",
+    "HEIGHT": "27",
+    "PRICE": 20196
+  },
+  {
+    "NUMBER": "1105Cd",
+    "DISCR": "Khumcha",
+    "DIA": "375",
+    "HEIGHT": "27",
+    "PRICE": 27735
+  },
+  {
+    "NUMBER": "1109A",
+    "DISCR": "`B' Type Thal",
+    "DIA": "415",
+    "HEIGHT": null,
+    "PRICE": 26119
+  },
+  {
+    "NUMBER": "1109Ad",
+    "DISCR": "`B' Type Thal",
+    "DIA": "415",
+    "HEIGHT": null,
+    "PRICE": 34302
+  },
+  {
+    "NUMBER": "1109B",
+    "DISCR": "`B' Type Thal",
+    "DIA": "390",
+    "HEIGHT": null,
+    "PRICE": 23227
+  },
+  {
+    "NUMBER": "1109C",
+    "DISCR": "`B' Type Thal",
+    "DIA": "365",
+    "HEIGHT": null,
+    "PRICE": 19236
+  },
+  {
+    "NUMBER": "1109C!",
+    "DISCR": "`B' Tyep Thal deep",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 19886
+  },
+  {
+    "NUMBER": "1109C!",
+    "DISCR": "'B\" TYPE THAL DEEP",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 20221
+  },
+  {
+    "NUMBER": "1109Cd",
+    "DISCR": "`B' Thal W/Border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 26416
+  },
+  {
+    "NUMBER": "1109D",
+    "DISCR": "`B' Type Thal",
+    "DIA": "335",
+    "HEIGHT": null,
+    "PRICE": 16885
+  },
+  {
+    "NUMBER": "1109D!",
+    "DISCR": "`B' Type Thal deep",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 17217
+  },
+  {
+    "NUMBER": "1109Dd",
+    "DISCR": "`B' Thal W/Border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 23606
+  },
+  {
+    "NUMBER": "1109E",
+    "DISCR": "`B' Type Thal",
+    "DIA": "310",
+    "HEIGHT": null,
+    "PRICE": 14834
+  },
+  {
+    "NUMBER": "1109E!",
+    "DISCR": "`B' Type Thal deep",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 15396
+  },
+  {
+    "NUMBER": "1115C",
+    "DISCR": "Banana Leaf 340X440",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 24442
+  },
+  {
+    "NUMBER": "1115D",
+    "DISCR": "Banana Leaf 290X360",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 16988
+  },
+  {
+    "NUMBER": "1115E",
+    "DISCR": "Banana Leaf 250X210",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 10863
+  },
+  {
+    "NUMBER": "1120C",
+    "DISCR": "`C' Type Thal",
+    "DIA": "385",
+    "HEIGHT": null,
+    "PRICE": 21494
+  },
+  {
+    "NUMBER": "1120D",
+    "DISCR": "`C' Type Thal",
+    "DIA": "350",
+    "HEIGHT": null,
+    "PRICE": 18909
+  },
+  {
+    "NUMBER": "1120E",
+    "DISCR": "`C' Type Thal",
+    "DIA": "330",
+    "HEIGHT": null,
+    "PRICE": 16444
+  },
+  {
+    "NUMBER": "1120F",
+    "DISCR": "`C' Type Thal",
+    "DIA": "310",
+    "HEIGHT": null,
+    "PRICE": 14834
+  },
+  {
+    "NUMBER": "1125D",
+    "DISCR": "Round Plate",
+    "DIA": "356",
+    "HEIGHT": null,
+    "PRICE": 17655
+  },
+  {
+    "NUMBER": "1125Dd",
+    "DISCR": "Round Plate w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 24456
+  },
+  {
+    "NUMBER": "1125E",
+    "DISCR": "Round Plate",
+    "DIA": "330",
+    "HEIGHT": null,
+    "PRICE": 15121
+  },
+  {
+    "NUMBER": "1125Ed",
+    "DISCR": "Rounnd plate w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 21148
+  },
+  {
+    "NUMBER": "1125F",
+    "DISCR": "Round plate",
+    "DIA": "310",
+    "HEIGHT": null,
+    "PRICE": 13036
+  },
+  {
+    "NUMBER": "1125Fd",
+    "DISCR": "Round plate w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 18651
+  },
+  {
+    "NUMBER": "1201A",
+    "DISCR": "Buffet plate round",
+    "DIA": "280",
+    "HEIGHT": null,
+    "PRICE": 10705
+  },
+  {
+    "NUMBER": "1201Ad",
+    "DISCR": "Buffet plate w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 15632
+  },
+  {
+    "NUMBER": "1201C",
+    "DISCR": "Buffet plate round",
+    "DIA": "260",
+    "HEIGHT": null,
+    "PRICE": 8940
+  },
+  {
+    "NUMBER": "1201Cd",
+    "DISCR": "Buffet plate w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 13491
+  },
+  {
+    "NUMBER": "1201D",
+    "DISCR": "Buffet plate round",
+    "DIA": "230",
+    "HEIGHT": null,
+    "PRICE": 7202
+  },
+  {
+    "NUMBER": "1201Dd",
+    "DISCR": "Buffet plate w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 11209
+  },
+  {
+    "NUMBER": "1201E",
+    "DISCR": "Buffet plate round",
+    "DIA": "215",
+    "HEIGHT": null,
+    "PRICE": 6158
+  },
+  {
+    "NUMBER": "1201Ed",
+    "DISCR": "Buffet plate w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 10004
+  },
+  {
+    "NUMBER": "1201F",
+    "DISCR": "Nasta plate",
+    "DIA": "185",
+    "HEIGHT": null,
+    "PRICE": 4539
+  },
+  {
+    "NUMBER": "1201Fd",
+    "DISCR": "Nasta plate w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 8172
+  },
+  {
+    "NUMBER": "1204A",
+    "DISCR": "Deca plate",
+    "DIA": "280",
+    "HEIGHT": "20",
+    "PRICE": 11209
+  },
+  {
+    "NUMBER": "1204C",
+    "DISCR": "Deca Plate",
+    "DIA": "260",
+    "HEIGHT": "20",
+    "PRICE": 9398
+  },
+  {
+    "NUMBER": "1204D",
+    "DISCR": "Deca Plate",
+    "DIA": "220",
+    "HEIGHT": "20",
+    "PRICE": 7159
+  },
+  {
+    "NUMBER": "1204E",
+    "DISCR": "Deca plate",
+    "DIA": "200",
+    "HEIGHT": "19",
+    "PRICE": 6499
+  },
+  {
+    "NUMBER": "1204H",
+    "DISCR": "Deca plate",
+    "DIA": "125",
+    "HEIGHT": "18",
+    "PRICE": 2853
+  },
+  {
+    "NUMBER": "1204I",
+    "DISCR": "Octagonal wada plate",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2145
+  },
+  {
+    "NUMBER": "1204J",
+    "DISCR": "Coaster Octagonal",
+    "DIA": "86",
+    "HEIGHT": "12",
+    "PRICE": 1518
+  },
+  {
+    "NUMBER": "1208A",
+    "DISCR": "Poha plate",
+    "DIA": "145",
+    "HEIGHT": null,
+    "PRICE": 2926
+  },
+  {
+    "NUMBER": "1208Ad",
+    "DISCR": "Poha plate w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5551
+  },
+  {
+    "NUMBER": "1208B",
+    "DISCR": "Poha plate",
+    "DIA": "130",
+    "HEIGHT": null,
+    "PRICE": 2422
+  },
+  {
+    "NUMBER": "1208Bd",
+    "DISCR": "Poha plate w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 4815
+  },
+  {
+    "NUMBER": "1211A",
+    "DISCR": "`B' type buffet plate",
+    "DIA": "280",
+    "HEIGHT": null,
+    "PRICE": 10705
+  },
+  {
+    "NUMBER": "1211Ad",
+    "DISCR": "`B' type plate w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 15632
+  },
+  {
+    "NUMBER": "1211B",
+    "DISCR": "`B' type buffet plate",
+    "DIA": "270",
+    "HEIGHT": null,
+    "PRICE": 9819
+  },
+  {
+    "NUMBER": "1211C",
+    "DISCR": "`B' type buffet plate",
+    "DIA": "255",
+    "HEIGHT": null,
+    "PRICE": 8940
+  },
+  {
+    "NUMBER": "1211D",
+    "DISCR": "`B' type buffet plate",
+    "DIA": "220",
+    "HEIGHT": null,
+    "PRICE": 6795
+  },
+  {
+    "NUMBER": "1211E",
+    "DISCR": "`B' type buffet plate",
+    "DIA": "200",
+    "HEIGHT": null,
+    "PRICE": 6158
+  },
+  {
+    "NUMBER": "1211F",
+    "DISCR": null,
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1
+  },
+  {
+    "NUMBER": "1212A",
+    "DISCR": "Rectangular buffet plate",
+    "DIA": "280",
+    "HEIGHT": null,
+    "PRICE": 10705
+  },
+  {
+    "NUMBER": "1212Ad",
+    "DISCR": "Rectangular w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 15631
+  },
+  {
+    "NUMBER": "1212C",
+    "DISCR": "Rectangular buffet plate",
+    "DIA": "255",
+    "HEIGHT": null,
+    "PRICE": 8940
+  },
+  {
+    "NUMBER": "1212Cd",
+    "DISCR": "Rect. buffet plate w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 13485
+  },
+  {
+    "NUMBER": "1212E",
+    "DISCR": "Rectangular buffet plate",
+    "DIA": "205",
+    "HEIGHT": null,
+    "PRICE": 6158
+  },
+  {
+    "NUMBER": "1212Ed",
+    "DISCR": "Rect. buffet plate w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 10004
+  },
+  {
+    "NUMBER": "1212F",
+    "DISCR": "Rectangular buffet plate",
+    "DIA": "185",
+    "HEIGHT": null,
+    "PRICE": 4539
+  },
+  {
+    "NUMBER": "1212Fd",
+    "DISCR": "Rect. buffet plate w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 8160
+  },
+  {
+    "NUMBER": "1221A",
+    "DISCR": "Rectangular plate",
+    "DIA": "115",
+    "HEIGHT": null,
+    "PRICE": 2803
+  },
+  {
+    "NUMBER": "1221Ad",
+    "DISCR": "Rectangular plate w/border",
+    "DIA": "115",
+    "HEIGHT": null,
+    "PRICE": 5520
+  },
+  {
+    "NUMBER": "1221B",
+    "DISCR": "Rectangular plate",
+    "DIA": "105",
+    "HEIGHT": null,
+    "PRICE": 2325
+  },
+  {
+    "NUMBER": "1222A",
+    "DISCR": "Rectangular plate deep",
+    "DIA": "105",
+    "HEIGHT": null,
+    "PRICE": 2803
+  },
+  {
+    "NUMBER": "1222B",
+    "DISCR": "Rectangular plate deep",
+    "DIA": "96",
+    "HEIGHT": null,
+    "PRICE": 2325
+  },
+  {
+    "NUMBER": "1223A",
+    "DISCR": "Wada plate",
+    "DIA": "123",
+    "HEIGHT": null,
+    "PRICE": 2695
+  },
+  {
+    "NUMBER": "1223AA",
+    "DISCR": "Wada plate large",
+    "DIA": "128",
+    "HEIGHT": "18",
+    "PRICE": 3126
+  },
+  {
+    "NUMBER": "1223AAd",
+    "DISCR": "Wada plate large w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5569
+  },
+  {
+    "NUMBER": "1223Ad",
+    "DISCR": "Wada plate w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5172
+  },
+  {
+    "NUMBER": "1223B",
+    "DISCR": "Wada plate small",
+    "DIA": "110",
+    "HEIGHT": null,
+    "PRICE": 2042
+  },
+  {
+    "NUMBER": "1223Bd",
+    "DISCR": "Wada plate small w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 4266
+  },
+  {
+    "NUMBER": "1224A",
+    "DISCR": "Dahiwada plate",
+    "DIA": "110",
+    "HEIGHT": null,
+    "PRICE": 2695
+  },
+  {
+    "NUMBER": "1224A3",
+    "DISCR": "3 PLATE STAND",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 11460
+  },
+  {
+    "NUMBER": "1224Ad",
+    "DISCR": "Dahiwada plate w/border",
+    "DIA": "120",
+    "HEIGHT": null,
+    "PRICE": 4716
+  },
+  {
+    "NUMBER": "1224B",
+    "DISCR": "Dahiwada plate small",
+    "DIA": "100",
+    "HEIGHT": null,
+    "PRICE": 2042
+  },
+  {
+    "NUMBER": "1224Bd",
+    "DISCR": "Dahiwada plate w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3774
+  },
+  {
+    "NUMBER": "1225",
+    "DISCR": "Triangular plate",
+    "DIA": "125",
+    "HEIGHT": null,
+    "PRICE": 2560
+  },
+  {
+    "NUMBER": "1226A",
+    "DISCR": "Wada Plate `D' Type",
+    "DIA": "105",
+    "HEIGHT": null,
+    "PRICE": 2695
+  },
+  {
+    "NUMBER": "1226AA",
+    "DISCR": "Wada plate `D' type large",
+    "DIA": "122",
+    "HEIGHT": "20",
+    "PRICE": 3126
+  },
+  {
+    "NUMBER": "1226AAd",
+    "DISCR": "Wada plate w/border",
+    "DIA": "122",
+    "HEIGHT": "20",
+    "PRICE": 5569
+  },
+  {
+    "NUMBER": "1226Ad",
+    "DISCR": "Wada plate w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 4716
+  },
+  {
+    "NUMBER": "1226B",
+    "DISCR": "Wada plate small",
+    "DIA": "95",
+    "HEIGHT": null,
+    "PRICE": 2042
+  },
+  {
+    "NUMBER": "1226Bd",
+    "DISCR": "Wada plate w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3774
+  },
+  {
+    "NUMBER": "1227A",
+    "DISCR": "Fugir Wada Plate",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2695
+  },
+  {
+    "NUMBER": "1227B",
+    "DISCR": "Fugir Wada Plate",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2047
+  },
+  {
+    "NUMBER": "1227Bd",
+    "DISCR": "Fugir wada plate w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3774
+  },
+  {
+    "NUMBER": "1228A",
+    "DISCR": "Square Wada Plate",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2827
+  },
+  {
+    "NUMBER": "1230A",
+    "DISCR": "`D' type buffet plate",
+    "DIA": "290",
+    "HEIGHT": null,
+    "PRICE": 10705
+  },
+  {
+    "NUMBER": "1230AA",
+    "DISCR": "`D' type Buffet Plate",
+    "DIA": "305",
+    "HEIGHT": "15",
+    "PRICE": 11640
+  },
+  {
+    "NUMBER": "1230AAd",
+    "DISCR": "`D' typ plate w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 17655
+  },
+  {
+    "NUMBER": "1230Ad",
+    "DISCR": "`D' type  plate w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 16417
+  },
+  {
+    "NUMBER": "1230B",
+    "DISCR": "`D' type buffet plate",
+    "DIA": "280",
+    "HEIGHT": null,
+    "PRICE": 9819
+  },
+  {
+    "NUMBER": "1230Bd",
+    "DISCR": "`D' type plate w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 14834
+  },
+  {
+    "NUMBER": "1230C",
+    "DISCR": "`D' type buffet plate",
+    "DIA": "260",
+    "HEIGHT": null,
+    "PRICE": 8940
+  },
+  {
+    "NUMBER": "1230Cd",
+    "DISCR": "`D' type plate w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 13485
+  },
+  {
+    "NUMBER": "1230D",
+    "DISCR": "`D' type buffet plate",
+    "DIA": "230",
+    "HEIGHT": null,
+    "PRICE": 7202
+  },
+  {
+    "NUMBER": "1230Dd",
+    "DISCR": "`D' type plate w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 11209
+  },
+  {
+    "NUMBER": "1230E",
+    "DISCR": "`D' type buffet plate",
+    "DIA": "205",
+    "HEIGHT": null,
+    "PRICE": 5551
+  },
+  {
+    "NUMBER": "1230Ed",
+    "DISCR": "`D' type plate w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 10004
+  },
+  {
+    "NUMBER": "1230F",
+    "DISCR": "`D' type buffet plate",
+    "DIA": "180",
+    "HEIGHT": null,
+    "PRICE": 4539
+  },
+  {
+    "NUMBER": "1230Fd",
+    "DISCR": "`D' type plate w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 8160
+  },
+  {
+    "NUMBER": "1230G",
+    "DISCR": "`D' type Plate",
+    "DIA": "160",
+    "HEIGHT": "11",
+    "PRICE": 4023
+  },
+  {
+    "NUMBER": "1230Gd",
+    "DISCR": "`D' type plate w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 7228
+  },
+  {
+    "NUMBER": "1245A",
+    "DISCR": "FANCY PLATE DEEP",
+    "DIA": "210",
+    "HEIGHT": "30",
+    "PRICE": 8875
+  },
+  {
+    "NUMBER": "1245B",
+    "DISCR": "FANCY PLATE DEEP",
+    "DIA": "195",
+    "HEIGHT": "25",
+    "PRICE": 7694
+  },
+  {
+    "NUMBER": "1245C",
+    "DISCR": "FANCY PLATE DEEP",
+    "DIA": "170",
+    "HEIGHT": "22",
+    "PRICE": 5545
+  },
+  {
+    "NUMBER": "1245D",
+    "DISCR": "FANCY PLATE DEEP",
+    "DIA": "145",
+    "HEIGHT": "22",
+    "PRICE": 4160
+  },
+  {
+    "NUMBER": "1245E",
+    "DISCR": "FANCY PLATE DEEP",
+    "DIA": "120",
+    "HEIGHT": "22",
+    "PRICE": 2914
+  },
+  {
+    "NUMBER": "1245F",
+    "DISCR": "FANCY PLATE DEEP",
+    "DIA": "110",
+    "HEIGHT": "18",
+    "PRICE": 1664
+  },
+  {
+    "NUMBER": "1245G",
+    "DISCR": "FANCY PLATE DEEP",
+    "DIA": "80",
+    "HEIGHT": "18",
+    "PRICE": 1387
+  },
+  {
+    "NUMBER": "1245H",
+    "DISCR": "FANCY PLATE DEEP",
+    "DIA": "60",
+    "HEIGHT": "15",
+    "PRICE": 832
+  },
+  {
+    "NUMBER": "1245I",
+    "DISCR": "FANCY PLATE DEEP",
+    "DIA": "65",
+    "HEIGHT": "12",
+    "PRICE": 728
+  },
+  {
+    "NUMBER": "1246B",
+    "DISCR": "KAMAL PLATE",
+    "DIA": "280",
+    "HEIGHT": null,
+    "PRICE": 10312
+  },
+  {
+    "NUMBER": "1246C",
+    "DISCR": "KAMAL PLATE",
+    "DIA": "250",
+    "HEIGHT": null,
+    "PRICE": 8481
+  },
+  {
+    "NUMBER": "1246D",
+    "DISCR": "KAMAL PLATE",
+    "DIA": "230",
+    "HEIGHT": null,
+    "PRICE": 6876
+  },
+  {
+    "NUMBER": "1246E",
+    "DISCR": "KAMAL PLATE",
+    "DIA": "205",
+    "HEIGHT": null,
+    "PRICE": 5373
+  },
+  {
+    "NUMBER": "1301A",
+    "DISCR": "PATELA 2.1 L",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 13212
+  },
+  {
+    "NUMBER": "1301Aa",
+    "DISCR": "COVER FOR PATELA",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 7960
+  },
+  {
+    "NUMBER": "1301B",
+    "DISCR": "PATELA  1.8 L",
+    "DIA": "190",
+    "HEIGHT": "92",
+    "PRICE": 10705
+  },
+  {
+    "NUMBER": "1301Ba",
+    "DISCR": "COVER FOR PATELA",
+    "DIA": "190",
+    "HEIGHT": null,
+    "PRICE": 6360
+  },
+  {
+    "NUMBER": "1301C",
+    "DISCR": "PATELA 1.3 L",
+    "DIA": "170",
+    "HEIGHT": "82",
+    "PRICE": 7732
+  },
+  {
+    "NUMBER": "1301Ca",
+    "DISCR": "COVER FOR PATELA",
+    "DIA": "170",
+    "HEIGHT": null,
+    "PRICE": 5156
+  },
+  {
+    "NUMBER": "1301D",
+    "DISCR": "PATELA  1L",
+    "DIA": "150",
+    "HEIGHT": "75",
+    "PRICE": 6360
+  },
+  {
+    "NUMBER": "1301Da",
+    "DISCR": "COVER FOR PATELA",
+    "DIA": "150",
+    "HEIGHT": null,
+    "PRICE": 2926
+  },
+  {
+    "NUMBER": "1401A",
+    "DISCR": "Wati 180 cc",
+    "DIA": "88",
+    "HEIGHT": null,
+    "PRICE": 2744
+  },
+  {
+    "NUMBER": "1401AAf",
+    "DISCR": "COFFEE WATI LARGE",
+    "DIA": "105",
+    "HEIGHT": "45",
+    "PRICE": 3542
+  },
+  {
+    "NUMBER": "1401Ad",
+    "DISCR": "Wati 180 cc w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 4485
+  },
+  {
+    "NUMBER": "1401B",
+    "DISCR": "Wati 140 cc",
+    "DIA": "85",
+    "HEIGHT": null,
+    "PRICE": 2422
+  },
+  {
+    "NUMBER": "1401C",
+    "DISCR": "Wati 110 cc",
+    "DIA": "78",
+    "HEIGHT": null,
+    "PRICE": 2246
+  },
+  {
+    "NUMBER": "1401Cd",
+    "DISCR": "Wati 110 cc w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3774
+  },
+  {
+    "NUMBER": "1401D",
+    "DISCR": "Wati 100 cc",
+    "DIA": "75",
+    "HEIGHT": null,
+    "PRICE": 2116
+  },
+  {
+    "NUMBER": "1401Dd",
+    "DISCR": "Wati 100 cc w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3602
+  },
+  {
+    "NUMBER": "1401E",
+    "DISCR": "Wati 90 cc",
+    "DIA": "73",
+    "HEIGHT": null,
+    "PRICE": 1813
+  },
+  {
+    "NUMBER": "1401Ed",
+    "DISCR": "Wati 90 cc w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3224
+  },
+  {
+    "NUMBER": "1401G",
+    "DISCR": "Wati 50 cc",
+    "DIA": "64",
+    "HEIGHT": null,
+    "PRICE": 1468
+  },
+  {
+    "NUMBER": "1401I",
+    "DISCR": "Chatani wati large",
+    "DIA": "48",
+    "HEIGHT": null,
+    "PRICE": 837
+  },
+  {
+    "NUMBER": "1401Id",
+    "DISCR": "Chatani wati large w/border",
+    "DIA": "48",
+    "HEIGHT": null,
+    "PRICE": 1842
+  },
+  {
+    "NUMBER": "1401J",
+    "DISCR": "Chatani wati small",
+    "DIA": "40",
+    "HEIGHT": null,
+    "PRICE": 698
+  },
+  {
+    "NUMBER": "1401Jd",
+    "DISCR": "Chatani wati small w/border",
+    "DIA": "40",
+    "HEIGHT": null,
+    "PRICE": 1479
+  },
+  {
+    "NUMBER": "1403A",
+    "DISCR": "Wati `P' type",
+    "DIA": "92",
+    "HEIGHT": "40",
+    "PRICE": 2748
+  },
+  {
+    "NUMBER": "1403Ad",
+    "DISCR": "Wati `P' typw w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 4485
+  },
+  {
+    "NUMBER": "1403B",
+    "DISCR": "Wati `P' type",
+    "DIA": "77",
+    "HEIGHT": "34",
+    "PRICE": 2116
+  },
+  {
+    "NUMBER": "1403Bd",
+    "DISCR": "Wati `P' type w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3602
+  },
+  {
+    "NUMBER": "1405A",
+    "DISCR": "Square Wati",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2877
+  },
+  {
+    "NUMBER": "1405B",
+    "DISCR": "Square Wati",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2529
+  },
+  {
+    "NUMBER": "1405C",
+    "DISCR": "Square Wati",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2362
+  },
+  {
+    "NUMBER": "1405D",
+    "DISCR": "Square Wati",
+    "DIA": "90",
+    "HEIGHT": "35",
+    "PRICE": 2233
+  },
+  {
+    "NUMBER": "1405E",
+    "DISCR": "Square Wati",
+    "DIA": "85",
+    "HEIGHT": "33",
+    "PRICE": 1888
+  },
+  {
+    "NUMBER": "1409E",
+    "DISCR": "Kunda wati 90 cc",
+    "DIA": "80",
+    "HEIGHT": null,
+    "PRICE": 1818
+  },
+  {
+    "NUMBER": "1410A",
+    "DISCR": "Tub wati 180 cc",
+    "DIA": "100",
+    "HEIGHT": null,
+    "PRICE": 2744
+  },
+  {
+    "NUMBER": "1410AA",
+    "DISCR": "Finger bowl tub type",
+    "DIA": "114",
+    "HEIGHT": null,
+    "PRICE": 3658
+  },
+  {
+    "NUMBER": "1410AAd",
+    "DISCR": "Finger Bowl W/Border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5420
+  },
+  {
+    "NUMBER": "1410Ad",
+    "DISCR": "Tub wati w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 4483
+  },
+  {
+    "NUMBER": "1410B",
+    "DISCR": "Tub wati 140 cc",
+    "DIA": "95",
+    "HEIGHT": null,
+    "PRICE": 2422
+  },
+  {
+    "NUMBER": "1410Bd",
+    "DISCR": "Tub wati w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 4083
+  },
+  {
+    "NUMBER": "1410C",
+    "DISCR": "Tub wati 110 cc",
+    "DIA": "90",
+    "HEIGHT": null,
+    "PRICE": 2246
+  },
+  {
+    "NUMBER": "1410Cd",
+    "DISCR": "Tub wati w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3774
+  },
+  {
+    "NUMBER": "1410D",
+    "DISCR": "Tub wati 100 cc",
+    "DIA": "87",
+    "HEIGHT": null,
+    "PRICE": 2116
+  },
+  {
+    "NUMBER": "1410Dd",
+    "DISCR": "Tub wati w/border",
+    "DIA": "87",
+    "HEIGHT": null,
+    "PRICE": 3590
+  },
+  {
+    "NUMBER": "1410E",
+    "DISCR": "Tub wati 90 cc",
+    "DIA": "83",
+    "HEIGHT": null,
+    "PRICE": 1813
+  },
+  {
+    "NUMBER": "1410Ed",
+    "DISCR": "Tub wati w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3224
+  },
+  {
+    "NUMBER": "1410F",
+    "DISCR": "Tub wati 70 cc",
+    "DIA": "80",
+    "HEIGHT": null,
+    "PRICE": 1652
+  },
+  {
+    "NUMBER": "1410Fd",
+    "DISCR": "Tub wati w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3102
+  },
+  {
+    "NUMBER": "1410G",
+    "DISCR": "Tub wati 50 cc",
+    "DIA": "75",
+    "HEIGHT": null,
+    "PRICE": 1468
+  },
+  {
+    "NUMBER": "1410Gd",
+    "DISCR": "Tub wati w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2832
+  },
+  {
+    "NUMBER": "1410I",
+    "DISCR": "Chatani wati  large",
+    "DIA": "55",
+    "HEIGHT": null,
+    "PRICE": 837
+  },
+  {
+    "NUMBER": "1410Id",
+    "DISCR": "Chatani wati w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1351
+  },
+  {
+    "NUMBER": "1410J",
+    "DISCR": "Chatani wati  small",
+    "DIA": "50",
+    "HEIGHT": null,
+    "PRICE": 698
+  },
+  {
+    "NUMBER": "1410Jd",
+    "DISCR": "Chatani wati w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1132
+  },
+  {
+    "NUMBER": "1411A",
+    "DISCR": "Drona",
+    "DIA": "100",
+    "HEIGHT": "40",
+    "PRICE": 3973
+  },
+  {
+    "NUMBER": "1411D",
+    "DISCR": "Drona",
+    "DIA": "87",
+    "HEIGHT": "35",
+    "PRICE": 3333
+  },
+  {
+    "NUMBER": "1412A",
+    "DISCR": "WATI WITH BASE",
+    "DIA": "45",
+    "HEIGHT": "25",
+    "PRICE": 840
+  },
+  {
+    "NUMBER": "1412B",
+    "DISCR": "WATI WITH BASE SMALL",
+    "DIA": "40",
+    "HEIGHT": "24",
+    "PRICE": 698
+  },
+  {
+    "NUMBER": "1418C",
+    "DISCR": "Kangora wati 110 cc",
+    "DIA": "90",
+    "HEIGHT": "47",
+    "PRICE": 2246
+  },
+  {
+    "NUMBER": "1418CF",
+    "DISCR": "Fadi wati",
+    "DIA": "90",
+    "HEIGHT": "47",
+    "PRICE": 2695
+  },
+  {
+    "NUMBER": "1418Cd",
+    "DISCR": "Kangora wati w/border",
+    "DIA": "90",
+    "HEIGHT": "47",
+    "PRICE": 4059
+  },
+  {
+    "NUMBER": "1418E",
+    "DISCR": "Kangora wati 90 cc",
+    "DIA": "79",
+    "HEIGHT": "40",
+    "PRICE": 1813
+  },
+  {
+    "NUMBER": "1418EF",
+    "DISCR": "Fadi wati 90 cc",
+    "DIA": "79",
+    "HEIGHT": "40",
+    "PRICE": 2246
+  },
+  {
+    "NUMBER": "1418Ed",
+    "DISCR": "Kangora wati w/border",
+    "DIA": "79",
+    "HEIGHT": "40",
+    "PRICE": 3405
+  },
+  {
+    "NUMBER": "1428A",
+    "DISCR": "Fugir wati 200 cc",
+    "DIA": "87",
+    "HEIGHT": null,
+    "PRICE": 3102
+  },
+  {
+    "NUMBER": "1428Aa",
+    "DISCR": "Cover for Wati 1428A",
+    "DIA": "95",
+    "HEIGHT": null,
+    "PRICE": 1315
+  },
+  {
+    "NUMBER": "1428Ad",
+    "DISCR": "Fugir wati w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 4772
+  },
+  {
+    "NUMBER": "1428C",
+    "DISCR": "Fugir wati 110 cc",
+    "DIA": "80",
+    "HEIGHT": null,
+    "PRICE": 2246
+  },
+  {
+    "NUMBER": "1428Ca",
+    "DISCR": "Cover for wati 1428C",
+    "DIA": "86",
+    "HEIGHT": null,
+    "PRICE": 1050
+  },
+  {
+    "NUMBER": "1428Cd",
+    "DISCR": "Fugir wati w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3774
+  },
+  {
+    "NUMBER": "1428D",
+    "DISCR": "Fugir wati 100 cc",
+    "DIA": "75",
+    "HEIGHT": null,
+    "PRICE": 2116
+  },
+  {
+    "NUMBER": "1428Da",
+    "DISCR": "Cover for wati 1428D",
+    "DIA": "78",
+    "HEIGHT": null,
+    "PRICE": 880
+  },
+  {
+    "NUMBER": "1428Dd",
+    "DISCR": "Fugir wati w/border",
+    "DIA": "75",
+    "HEIGHT": null,
+    "PRICE": 3590
+  },
+  {
+    "NUMBER": "1428E",
+    "DISCR": "Fugir wati 90 cc",
+    "DIA": "70",
+    "HEIGHT": null,
+    "PRICE": 1813
+  },
+  {
+    "NUMBER": "1428Ea",
+    "DISCR": "Cover for wati 1428E",
+    "DIA": "73",
+    "HEIGHT": null,
+    "PRICE": 774
+  },
+  {
+    "NUMBER": "1428Ed",
+    "DISCR": "Fugir wati w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3224
+  },
+  {
+    "NUMBER": "1428I",
+    "DISCR": "Chatani wati fugir",
+    "DIA": "43",
+    "HEIGHT": null,
+    "PRICE": 837
+  },
+  {
+    "NUMBER": "1428Ia",
+    "DISCR": "Cover for fugir wati",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 242
+  },
+  {
+    "NUMBER": "1428Id",
+    "DISCR": "Chatani wati w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1468
+  },
+  {
+    "NUMBER": "1431D",
+    "DISCR": "Wati `C' Type",
+    "DIA": "83",
+    "HEIGHT": null,
+    "PRICE": 2116
+  },
+  {
+    "NUMBER": "1431E",
+    "DISCR": "Wati `C' Type",
+    "DIA": "76",
+    "HEIGHT": null,
+    "PRICE": 1813
+  },
+  {
+    "NUMBER": "1431G",
+    "DISCR": "Wati `C' Type",
+    "DIA": "70",
+    "HEIGHT": null,
+    "PRICE": 1468
+  },
+  {
+    "NUMBER": "1432C",
+    "DISCR": "Wati `D' type",
+    "DIA": "94",
+    "HEIGHT": null,
+    "PRICE": 2246
+  },
+  {
+    "NUMBER": "1432Cd",
+    "DISCR": "Wati `D' type w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3774
+  },
+  {
+    "NUMBER": "1432D",
+    "DISCR": "Wati `D' type",
+    "DIA": "85",
+    "HEIGHT": null,
+    "PRICE": 2116
+  },
+  {
+    "NUMBER": "1432Dd",
+    "DISCR": "Wati `D' type w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3602
+  },
+  {
+    "NUMBER": "1432E",
+    "DISCR": "Wati `D' type",
+    "DIA": "79",
+    "HEIGHT": null,
+    "PRICE": 1813
+  },
+  {
+    "NUMBER": "1432Ed",
+    "DISCR": "Wati `D' type w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3224
+  },
+  {
+    "NUMBER": "1432H",
+    "DISCR": "Chatani Wati large",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1208
+  },
+  {
+    "NUMBER": "1432I",
+    "DISCR": "Chatani wati",
+    "DIA": "56",
+    "HEIGHT": null,
+    "PRICE": 837
+  },
+  {
+    "NUMBER": "1432Ia",
+    "DISCR": "Cover for chatani wati",
+    "DIA": "60",
+    "HEIGHT": null,
+    "PRICE": 584
+  },
+  {
+    "NUMBER": "1432Id",
+    "DISCR": "Chatani wati w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1964
+  },
+  {
+    "NUMBER": "1432J",
+    "DISCR": "Chatani Wati",
+    "DIA": "50",
+    "HEIGHT": "20",
+    "PRICE": 698
+  },
+  {
+    "NUMBER": "1432Jd",
+    "DISCR": "Chatani wati w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1718
+  },
+  {
+    "NUMBER": "1438E",
+    "DISCR": "Wati",
+    "DIA": "70",
+    "HEIGHT": null,
+    "PRICE": 1994
+  },
+  {
+    "NUMBER": "1438Ea",
+    "DISCR": "Cover for wati",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 787
+  },
+  {
+    "NUMBER": "1438Ed",
+    "DISCR": "Wati w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3337
+  },
+  {
+    "NUMBER": "1442I",
+    "DISCR": "DOFULA I SIZE",
+    "DIA": "95",
+    "HEIGHT": "47",
+    "PRICE": 2668
+  },
+  {
+    "NUMBER": "1444I",
+    "DISCR": "CHOFULA I SIZE",
+    "DIA": "95",
+    "HEIGHT": "95",
+    "PRICE": 4221
+  },
+  {
+    "NUMBER": "1501D",
+    "DISCR": "Fulpatra 160 cc",
+    "DIA": "90",
+    "HEIGHT": "64",
+    "PRICE": 2853
+  },
+  {
+    "NUMBER": "1501E",
+    "DISCR": "Fulpatra 130 cc",
+    "DIA": "82",
+    "HEIGHT": "59",
+    "PRICE": 2400
+  },
+  {
+    "NUMBER": "1501F",
+    "DISCR": "Fulpatra 100 cc",
+    "DIA": "75",
+    "HEIGHT": "53",
+    "PRICE": 2066
+  },
+  {
+    "NUMBER": "1501G",
+    "DISCR": "Fulpatra 70 cc",
+    "DIA": "70",
+    "HEIGHT": "46",
+    "PRICE": 1777
+  },
+  {
+    "NUMBER": "1501H",
+    "DISCR": "Fulpatra 60 cc",
+    "DIA": "57",
+    "HEIGHT": "43",
+    "PRICE": 1330
+  },
+  {
+    "NUMBER": "1504C",
+    "DISCR": "Octagonal Glass",
+    "DIA": "60",
+    "HEIGHT": "100",
+    "PRICE": 3954
+  },
+  {
+    "NUMBER": "1504S",
+    "DISCR": "Octagonal Glass",
+    "DIA": "60",
+    "HEIGHT": "85",
+    "PRICE": 3553
+  },
+  {
+    "NUMBER": "1509B",
+    "DISCR": "Barrel Glass",
+    "DIA": "70",
+    "HEIGHT": "108",
+    "PRICE": 4294
+  },
+  {
+    "NUMBER": "1509D",
+    "DISCR": "Barrel Glass",
+    "DIA": "55",
+    "HEIGHT": "80",
+    "PRICE": 2853
+  },
+  {
+    "NUMBER": "1509E",
+    "DISCR": "Barrel Glass",
+    "DIA": "50",
+    "HEIGHT": "50",
+    "PRICE": 2400
+  },
+  {
+    "NUMBER": "1509Ea",
+    "DISCR": "Cover",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 621
+  },
+  {
+    "NUMBER": "1509Ed",
+    "DISCR": "Barrel Glass w/border",
+    "DIA": "50",
+    "HEIGHT": "50",
+    "PRICE": 3889
+  },
+  {
+    "NUMBER": "1513B",
+    "DISCR": "Padgi glass 300 cc",
+    "DIA": "82",
+    "HEIGHT": "108",
+    "PRICE": 4083
+  },
+  {
+    "NUMBER": "1513Ba",
+    "DISCR": "Cover for glass 1513B",
+    "DIA": "86",
+    "HEIGHT": null,
+    "PRICE": 1050
+  },
+  {
+    "NUMBER": "1513Bd",
+    "DISCR": "Padgi glass w/border",
+    "DIA": "82",
+    "HEIGHT": "108",
+    "PRICE": 5551
+  },
+  {
+    "NUMBER": "1513C",
+    "DISCR": "Padgi glass 250 cc",
+    "DIA": "72",
+    "HEIGHT": "98",
+    "PRICE": 3771
+  },
+  {
+    "NUMBER": "1513Ca",
+    "DISCR": "Cover for glass 1513C",
+    "DIA": "78",
+    "HEIGHT": null,
+    "PRICE": 880
+  },
+  {
+    "NUMBER": "1513Cd",
+    "DISCR": "Padgi glass w/border",
+    "DIA": "72",
+    "HEIGHT": "98",
+    "PRICE": 5035
+  },
+  {
+    "NUMBER": "1513D",
+    "DISCR": "Padgi glass 160 cc",
+    "DIA": "68",
+    "HEIGHT": "87",
+    "PRICE": 2853
+  },
+  {
+    "NUMBER": "1513Da",
+    "DISCR": "Cover for glass 1513D",
+    "DIA": "73",
+    "HEIGHT": null,
+    "PRICE": 774
+  },
+  {
+    "NUMBER": "1513Dd",
+    "DISCR": "Padgi glass w/border",
+    "DIA": "68",
+    "HEIGHT": "87",
+    "PRICE": 3973
+  },
+  {
+    "NUMBER": "1513E",
+    "DISCR": "Padgi glass 130 cc",
+    "DIA": "68",
+    "HEIGHT": "75",
+    "PRICE": 2400
+  },
+  {
+    "NUMBER": "1513Ed",
+    "DISCR": "Padgi glass w/border",
+    "DIA": "68",
+    "HEIGHT": "75",
+    "PRICE": 3889
+  },
+  {
+    "NUMBER": "1513F",
+    "DISCR": "Padgi glass 100 cc",
+    "DIA": "58",
+    "HEIGHT": "70",
+    "PRICE": 1818
+  },
+  {
+    "NUMBER": "1514B",
+    "DISCR": "Prince glass",
+    "DIA": "85",
+    "HEIGHT": "125",
+    "PRICE": 5172
+  },
+  {
+    "NUMBER": "1514C",
+    "DISCR": "Prince glass",
+    "DIA": "78",
+    "HEIGHT": "105",
+    "PRICE": 4023
+  },
+  {
+    "NUMBER": "1514Ca",
+    "DISCR": "COVER FOR 1514C",
+    "DIA": "78",
+    "HEIGHT": null,
+    "PRICE": 880
+  },
+  {
+    "NUMBER": "1515C",
+    "DISCR": "Square glass 230 cc",
+    "DIA": "58",
+    "HEIGHT": "100",
+    "PRICE": 3954
+  },
+  {
+    "NUMBER": "1515S",
+    "DISCR": "Square glass 200 cc",
+    "DIA": "58",
+    "HEIGHT": "85",
+    "PRICE": 3553
+  },
+  {
+    "NUMBER": "1516A",
+    "DISCR": "Beer glass 350 cc",
+    "DIA": "73",
+    "HEIGHT": "113",
+    "PRICE": 7647
+  },
+  {
+    "NUMBER": "1516B",
+    "DISCR": "Beer glass 300 cc",
+    "DIA": "65",
+    "HEIGHT": "113",
+    "PRICE": 4083
+  },
+  {
+    "NUMBER": "1516Bd",
+    "DISCR": "Beer glass w/border",
+    "DIA": "65",
+    "HEIGHT": "113",
+    "PRICE": 5898
+  },
+  {
+    "NUMBER": "1516C",
+    "DISCR": "Beer glass 230 cc",
+    "DIA": "65",
+    "HEIGHT": "102",
+    "PRICE": 3771
+  },
+  {
+    "NUMBER": "1516Ca",
+    "DISCR": "Cover for glass 1516C",
+    "DIA": "73",
+    "HEIGHT": null,
+    "PRICE": 774
+  },
+  {
+    "NUMBER": "1516Cd",
+    "DISCR": "Beer Glass w/Border",
+    "DIA": "65",
+    "HEIGHT": "102",
+    "PRICE": 5035
+  },
+  {
+    "NUMBER": "1516D",
+    "DISCR": "Beer glass 160 cc",
+    "DIA": "55",
+    "HEIGHT": "90",
+    "PRICE": 2853
+  },
+  {
+    "NUMBER": "1516Dd",
+    "DISCR": "Beer Glass w/Border",
+    "DIA": "55",
+    "HEIGHT": "90",
+    "PRICE": 3997
+  },
+  {
+    "NUMBER": "1516F",
+    "DISCR": "Liquer glass",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1994
+  },
+  {
+    "NUMBER": "1516S",
+    "DISCR": "Beer glass 200 cc",
+    "DIA": "62",
+    "HEIGHT": "90",
+    "PRICE": 3380
+  },
+  {
+    "NUMBER": "1516Sa",
+    "DISCR": "Cover for 1516S",
+    "DIA": "67",
+    "HEIGHT": null,
+    "PRICE": 672
+  },
+  {
+    "NUMBER": "1516Sd",
+    "DISCR": "Beer glass w/border",
+    "DIA": "62",
+    "HEIGHT": "90",
+    "PRICE": 4621
+  },
+  {
+    "NUMBER": "1526A",
+    "DISCR": "Beer mug 350 cc",
+    "DIA": "73",
+    "HEIGHT": "113",
+    "PRICE": 7365
+  },
+  {
+    "NUMBER": "1526AA",
+    "DISCR": "Beer mug large",
+    "DIA": "85",
+    "HEIGHT": "126",
+    "PRICE": 9204
+  },
+  {
+    "NUMBER": "1526AAd",
+    "DISCR": "Beer Mug extra large",
+    "DIA": "85",
+    "HEIGHT": "126",
+    "PRICE": 9204
+  },
+  {
+    "NUMBER": "1526Ad",
+    "DISCR": "Beer Mug large",
+    "DIA": "73",
+    "HEIGHT": "113",
+    "PRICE": 7365
+  },
+  {
+    "NUMBER": "1526Cd",
+    "DISCR": "Beer Mug Small",
+    "DIA": "65",
+    "HEIGHT": "102",
+    "PRICE": 6876
+  },
+  {
+    "NUMBER": "1527A",
+    "DISCR": "Beer mug`B'type 350cc",
+    "DIA": "82",
+    "HEIGHT": "117",
+    "PRICE": 6532
+  },
+  {
+    "NUMBER": "1527B",
+    "DISCR": "WINE GLASS",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 4266
+  },
+  {
+    "NUMBER": "1528C",
+    "DISCR": "Liner with glass",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1777
+  },
+  {
+    "NUMBER": "1530B",
+    "DISCR": "Taper Glass",
+    "DIA": "73",
+    "HEIGHT": "115",
+    "PRICE": 4083
+  },
+  {
+    "NUMBER": "1530C",
+    "DISCR": "Taper glass 230 cc",
+    "DIA": "62",
+    "HEIGHT": "116",
+    "PRICE": 3771
+  },
+  {
+    "NUMBER": "1530Cd",
+    "DISCR": "Taper glass 230 cc w/border",
+    "DIA": "62",
+    "HEIGHT": "116",
+    "PRICE": 4891
+  },
+  {
+    "NUMBER": "1530D",
+    "DISCR": "Taper glass small",
+    "DIA": "60",
+    "HEIGHT": "95",
+    "PRICE": 2853
+  },
+  {
+    "NUMBER": "1532C",
+    "DISCR": "Glass `B' type 230 cc",
+    "DIA": "70",
+    "HEIGHT": "110",
+    "PRICE": 3771
+  },
+  {
+    "NUMBER": "1532Cd",
+    "DISCR": "Glass `B' type w/border",
+    "DIA": "70",
+    "HEIGHT": "110",
+    "PRICE": 4891
+  },
+  {
+    "NUMBER": "1533E",
+    "DISCR": "Juce glass 130 cc",
+    "DIA": "65",
+    "HEIGHT": "105",
+    "PRICE": 2853
+  },
+  {
+    "NUMBER": "1533Ed",
+    "DISCR": "Juice glass w/border",
+    "DIA": "65",
+    "HEIGHT": "105",
+    "PRICE": 3422
+  },
+  {
+    "NUMBER": "1535B",
+    "DISCR": "Tumbler",
+    "DIA": "80",
+    "HEIGHT": "115",
+    "PRICE": 4294
+  },
+  {
+    "NUMBER": "1535Ba",
+    "DISCR": "Cover For 1535B",
+    "DIA": "86",
+    "HEIGHT": null,
+    "PRICE": 1050
+  },
+  {
+    "NUMBER": "1535Bd",
+    "DISCR": "Tumbler glass w/border",
+    "DIA": "80",
+    "HEIGHT": "115",
+    "PRICE": 5892
+  },
+  {
+    "NUMBER": "1535C",
+    "DISCR": "Tumbler glass 200 cc",
+    "DIA": "70",
+    "HEIGHT": "103",
+    "PRICE": 3771
+  },
+  {
+    "NUMBER": "1535Cd",
+    "DISCR": "Tumbler glass w/border",
+    "DIA": "70",
+    "HEIGHT": "103",
+    "PRICE": 4891
+  },
+  {
+    "NUMBER": "1535E",
+    "DISCR": "COFFEE GLASS TAPER",
+    "DIA": "80",
+    "HEIGHT": "67",
+    "PRICE": 2710
+  },
+  {
+    "NUMBER": "1601A",
+    "DISCR": "Sangli loti 1 litre",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 9150
+  },
+  {
+    "NUMBER": "1601AK",
+    "DISCR": "KALASH DESIGN LARGE",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 9150
+  },
+  {
+    "NUMBER": "1601Aa",
+    "DISCR": "Cover for loti 1601A",
+    "DIA": "95",
+    "HEIGHT": null,
+    "PRICE": 1315
+  },
+  {
+    "NUMBER": "1601B",
+    "DISCR": "Sangli loti 800 cc",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 7410
+  },
+  {
+    "NUMBER": "1601Ba",
+    "DISCR": "cover for loti 1601B",
+    "DIA": "95",
+    "HEIGHT": null,
+    "PRICE": 1315
+  },
+  {
+    "NUMBER": "1601C",
+    "DISCR": "Sangli loti 600 cc",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5929
+  },
+  {
+    "NUMBER": "1601Ca",
+    "DISCR": "Cover for loti 1601C",
+    "DIA": "85",
+    "HEIGHT": null,
+    "PRICE": 1059
+  },
+  {
+    "NUMBER": "1601D",
+    "DISCR": "Sangli loti 400 cc",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5265
+  },
+  {
+    "NUMBER": "1601Da",
+    "DISCR": "Cover for loti 1601D",
+    "DIA": "75",
+    "HEIGHT": null,
+    "PRICE": 836
+  },
+  {
+    "NUMBER": "1601E",
+    "DISCR": "Sagli loti 200 cc",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 4056
+  },
+  {
+    "NUMBER": "1601Ea",
+    "DISCR": "Cover for loti 1601E",
+    "DIA": "65",
+    "HEIGHT": null,
+    "PRICE": 664
+  },
+  {
+    "NUMBER": "1601Ed",
+    "DISCR": "Loti w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5420
+  },
+  {
+    "NUMBER": "1601F",
+    "DISCR": "LOI+FULPATRA SMALL",
+    "DIA": "50",
+    "HEIGHT": "50",
+    "PRICE": 1376
+  },
+  {
+    "NUMBER": "1601G",
+    "DISCR": "LOTI+FULPATRA",
+    "DIA": "40",
+    "HEIGHT": "40",
+    "PRICE": 1100
+  },
+  {
+    "NUMBER": "1601H",
+    "DISCR": "LOTI+FULPATRA",
+    "DIA": "30",
+    "HEIGHT": "30",
+    "PRICE": 825
+  },
+  {
+    "NUMBER": "1602A",
+    "DISCR": "KALASH PLAIN LARGE",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 9150
+  },
+  {
+    "NUMBER": "1602AK",
+    "DISCR": "KALASH FANCY",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 10063
+  },
+  {
+    "NUMBER": "1602B",
+    "DISCR": "KALASH PLAIN MEDIUM",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 7410
+  },
+  {
+    "NUMBER": "1602BK",
+    "DISCR": "KALASH DESIGN MEDIUM",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 8148
+  },
+  {
+    "NUMBER": "1602C",
+    "DISCR": "KALASH PLAIN SMALL",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5929
+  },
+  {
+    "NUMBER": "1602CK",
+    "DISCR": "KALASH DESIGN SMALL",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 6522
+  },
+  {
+    "NUMBER": "1603F",
+    "DISCR": "SATELA WITH COVER",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 6417
+  },
+  {
+    "NUMBER": "1603G",
+    "DISCR": "SATELA SMALL WITH COVER",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5116
+  },
+  {
+    "NUMBER": "1609A",
+    "DISCR": "Water jug 1800 ml",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 19989
+  },
+  {
+    "NUMBER": "1609Aa",
+    "DISCR": "Cover for Jug 1609A",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3033
+  },
+  {
+    "NUMBER": "1609Ad",
+    "DISCR": "Water jug w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 21550
+  },
+  {
+    "NUMBER": "1609B",
+    "DISCR": "Water jug 1200 ml",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 14834
+  },
+  {
+    "NUMBER": "1609Ba",
+    "DISCR": "Cover for jug 1609B",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2454
+  },
+  {
+    "NUMBER": "1609Bd",
+    "DISCR": "Water jug w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 15926
+  },
+  {
+    "NUMBER": "1609C",
+    "DISCR": "Water jug 550 ml",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 7482
+  },
+  {
+    "NUMBER": "1609Ca",
+    "DISCR": "Cover for jug 1609C",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1845
+  },
+  {
+    "NUMBER": "1609Cd",
+    "DISCR": "Water jug w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 8373
+  },
+  {
+    "NUMBER": "1610B",
+    "DISCR": "WATER JUG+GLASS",
+    "DIA": "100",
+    "HEIGHT": "190",
+    "PRICE": 16045
+  },
+  {
+    "NUMBER": "1612A",
+    "DISCR": "Ghee pot large",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2325
+  },
+  {
+    "NUMBER": "1612Aa",
+    "DISCR": "cover for ghee pot",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 480
+  },
+  {
+    "NUMBER": "1612Ad",
+    "DISCR": "Ghee pot  w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3420
+  },
+  {
+    "NUMBER": "1612B",
+    "DISCR": "Ghee pot small",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1813
+  },
+  {
+    "NUMBER": "1612Ba",
+    "DISCR": "Cover for ghee pot",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 285
+  },
+  {
+    "NUMBER": "1612Bd",
+    "DISCR": "Ghee pot w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2670
+  },
+  {
+    "NUMBER": "1613A",
+    "DISCR": "Water jug `B' type",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 19989
+  },
+  {
+    "NUMBER": "1613Ad",
+    "DISCR": "Water jug  w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 21482
+  },
+  {
+    "NUMBER": "1702A",
+    "DISCR": "S.dish 2 2 1/2 litre",
+    "DIA": "215",
+    "HEIGHT": "90",
+    "PRICE": 15501
+  },
+  {
+    "NUMBER": "1702AA",
+    "DISCR": "Service dish 4 litres",
+    "DIA": "275",
+    "HEIGHT": "115",
+    "PRICE": 26484
+  },
+  {
+    "NUMBER": "1702AAd",
+    "DISCR": "Service dish w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 31446
+  },
+  {
+    "NUMBER": "1702Aa",
+    "DISCR": "Service dish cover",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5737
+  },
+  {
+    "NUMBER": "1702Ad",
+    "DISCR": "S.dish w/border",
+    "DIA": "215",
+    "HEIGHT": "90",
+    "PRICE": 19236
+  },
+  {
+    "NUMBER": "1702B",
+    "DISCR": "Service dish 2 litre",
+    "DIA": "190",
+    "HEIGHT": "80",
+    "PRICE": 13188
+  },
+  {
+    "NUMBER": "1702Ba",
+    "DISCR": "service dish cover",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 4803
+  },
+  {
+    "NUMBER": "1702Bd",
+    "DISCR": "Service dish w/border",
+    "DIA": "190",
+    "HEIGHT": "80",
+    "PRICE": 16570
+  },
+  {
+    "NUMBER": "1702C",
+    "DISCR": "S.dish 1.4 litre",
+    "DIA": "165",
+    "HEIGHT": "75",
+    "PRICE": 11089
+  },
+  {
+    "NUMBER": "1702Ca",
+    "DISCR": "Service dish cover",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3102
+  },
+  {
+    "NUMBER": "1702Cd",
+    "DISCR": "S.dish w/border",
+    "DIA": "165",
+    "HEIGHT": "75",
+    "PRICE": 14484
+  },
+  {
+    "NUMBER": "1702D",
+    "DISCR": "S.dish 1.1 litre",
+    "DIA": "150",
+    "HEIGHT": "70",
+    "PRICE": 9202
+  },
+  {
+    "NUMBER": "1702Da",
+    "DISCR": "Service dish cover",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2832
+  },
+  {
+    "NUMBER": "1702Dd",
+    "DISCR": "S.dish w/border",
+    "DIA": "150",
+    "HEIGHT": "70",
+    "PRICE": 11968
+  },
+  {
+    "NUMBER": "1702E",
+    "DISCR": "S.dish 0.6 litre",
+    "DIA": "130",
+    "HEIGHT": "60",
+    "PRICE": 6626
+  },
+  {
+    "NUMBER": "1702Ea",
+    "DISCR": "Service Dish Cover",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2116
+  },
+  {
+    "NUMBER": "1702Ed",
+    "DISCR": "S.dish w/border",
+    "DIA": "130",
+    "HEIGHT": "60",
+    "PRICE": 9102
+  },
+  {
+    "NUMBER": "1702F",
+    "DISCR": "S.Dish 0.4 litre",
+    "DIA": "115",
+    "HEIGHT": "68",
+    "PRICE": 4642
+  },
+  {
+    "NUMBER": "1702Fa",
+    "DISCR": "Service dish cover",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1777
+  },
+  {
+    "NUMBER": "1702Fd",
+    "DISCR": "Service Dish w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 6900
+  },
+  {
+    "NUMBER": "1702G",
+    "DISCR": "Chatani pot w/cover",
+    "DIA": "90",
+    "HEIGHT": "40",
+    "PRICE": 3907
+  },
+  {
+    "NUMBER": "1702Ga",
+    "DISCR": "Cover for chatani pot",
+    "DIA": "82",
+    "HEIGHT": null,
+    "PRICE": 932
+  },
+  {
+    "NUMBER": "1702Gd",
+    "DISCR": "Chatani pot w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5331
+  },
+  {
+    "NUMBER": "1702H",
+    "DISCR": "Chatani pot  w/cover",
+    "DIA": "83",
+    "HEIGHT": "40",
+    "PRICE": 3117
+  },
+  {
+    "NUMBER": "1702Ha",
+    "DISCR": "Cover for chatani pot",
+    "DIA": "73",
+    "HEIGHT": null,
+    "PRICE": 741
+  },
+  {
+    "NUMBER": "1702Hd",
+    "DISCR": "Chatani pot w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 4298
+  },
+  {
+    "NUMBER": "1703A",
+    "DISCR": "Oval bowl",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 16275
+  },
+  {
+    "NUMBER": "1703Ad",
+    "DISCR": "Oval bowl w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 20196
+  },
+  {
+    "NUMBER": "1703B",
+    "DISCR": "Oval bowl",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 13849
+  },
+  {
+    "NUMBER": "1703Bd",
+    "DISCR": "Oval bowl w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 17397
+  },
+  {
+    "NUMBER": "1703C",
+    "DISCR": "Oval bowl",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 11655
+  },
+  {
+    "NUMBER": "1703Cd",
+    "DISCR": "Ovla bowl with border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 15206
+  },
+  {
+    "NUMBER": "1703D",
+    "DISCR": "Oval bowl",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 9656
+  },
+  {
+    "NUMBER": "1703Dd",
+    "DISCR": "Oval bowl with border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 12564
+  },
+  {
+    "NUMBER": "1703E",
+    "DISCR": "Oval bowl",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 6960
+  },
+  {
+    "NUMBER": "1703Ed",
+    "DISCR": "Oval bowl with border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 9571
+  },
+  {
+    "NUMBER": "1703F",
+    "DISCR": "Oval bowl",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 4874
+  },
+  {
+    "NUMBER": "1703Fd",
+    "DISCR": "Oval bowl with border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 7250
+  },
+  {
+    "NUMBER": "1703G",
+    "DISCR": "Oval bowl",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 4096
+  },
+  {
+    "NUMBER": "1703Gd",
+    "DISCR": "Oval bowl with border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5584
+  },
+  {
+    "NUMBER": "1704AA",
+    "DISCR": "Large octagonal bowl",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 27796
+  },
+  {
+    "NUMBER": "1704B",
+    "DISCR": "Octagonal bowl 1.9 ltr",
+    "DIA": "198",
+    "HEIGHT": "76",
+    "PRICE": 13849
+  },
+  {
+    "NUMBER": "1704Bd",
+    "DISCR": "Octagonal bowl w/border",
+    "DIA": "198",
+    "HEIGHT": "76",
+    "PRICE": 17242
+  },
+  {
+    "NUMBER": "1704C",
+    "DISCR": "Octagonal bowl 1.3 ltr",
+    "DIA": "185",
+    "HEIGHT": "68",
+    "PRICE": 11655
+  },
+  {
+    "NUMBER": "1704Cd",
+    "DISCR": "Octagonal bowl w/border",
+    "DIA": "185",
+    "HEIGHT": "68",
+    "PRICE": 15050
+  },
+  {
+    "NUMBER": "1704D",
+    "DISCR": "Octagonal bowl 1 ltr",
+    "DIA": "160",
+    "HEIGHT": "61",
+    "PRICE": 9649
+  },
+  {
+    "NUMBER": "1704Dd",
+    "DISCR": "Octagonal bowl w/border",
+    "DIA": "160",
+    "HEIGHT": "61",
+    "PRICE": 13006
+  },
+  {
+    "NUMBER": "1704E",
+    "DISCR": "Octagonal Bowl 0.7 ltr",
+    "DIA": "145",
+    "HEIGHT": "58",
+    "PRICE": 6938
+  },
+  {
+    "NUMBER": "1704Ed",
+    "DISCR": "Octagonal bowl w/border",
+    "DIA": "145",
+    "HEIGHT": "58",
+    "PRICE": 9746
+  },
+  {
+    "NUMBER": "1704F",
+    "DISCR": "Octagonal Bowl 0.4 ltr",
+    "DIA": "125",
+    "HEIGHT": "48",
+    "PRICE": 4860
+  },
+  {
+    "NUMBER": "1704Fd",
+    "DISCR": "Octagonal bowl w/border",
+    "DIA": "125",
+    "HEIGHT": "48",
+    "PRICE": 7402
+  },
+  {
+    "NUMBER": "1704G",
+    "DISCR": "Octagonal bowl 0.2 ltr",
+    "DIA": "85",
+    "HEIGHT": "39",
+    "PRICE": 2853
+  },
+  {
+    "NUMBER": "1704Gd",
+    "DISCR": "Octagonal bowl w/border",
+    "DIA": "85",
+    "HEIGHT": "39",
+    "PRICE": 4642
+  },
+  {
+    "NUMBER": "1704H",
+    "DISCR": "Octagonal bowl 0.1 ltr",
+    "DIA": "77",
+    "HEIGHT": "33",
+    "PRICE": 2400
+  },
+  {
+    "NUMBER": "1704Hd",
+    "DISCR": "Octagonal bowl w/border",
+    "DIA": "77",
+    "HEIGHT": "33",
+    "PRICE": 4106
+  },
+  {
+    "NUMBER": "1704I",
+    "DISCR": "Octagonal katori",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1964
+  },
+  {
+    "NUMBER": "1704M2",
+    "DISCR": "DOFULA OCTAGONAL",
+    "DIA": "90",
+    "HEIGHT": "90",
+    "PRICE": 2578
+  },
+  {
+    "NUMBER": "1704N",
+    "DISCR": "Octagonal chatani wati",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 873
+  },
+  {
+    "NUMBER": "1705A",
+    "DISCR": "Square bowl",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 16275
+  },
+  {
+    "NUMBER": "1705Ad",
+    "DISCR": "Square bowl with border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 20196
+  },
+  {
+    "NUMBER": "1705B",
+    "DISCR": "Square bowl",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 13849
+  },
+  {
+    "NUMBER": "1705Bd",
+    "DISCR": "Square bowl w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 17397
+  },
+  {
+    "NUMBER": "1705C",
+    "DISCR": "Square bowl",
+    "DIA": "185",
+    "HEIGHT": "90",
+    "PRICE": 11655
+  },
+  {
+    "NUMBER": "1705Cd",
+    "DISCR": "Square bowl w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 15206
+  },
+  {
+    "NUMBER": "1705D",
+    "DISCR": "square bowl",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 9656
+  },
+  {
+    "NUMBER": "1705Dd",
+    "DISCR": "Square bowl w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 12564
+  },
+  {
+    "NUMBER": "1705E",
+    "DISCR": "square bowl",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 6960
+  },
+  {
+    "NUMBER": "1705Ed",
+    "DISCR": "Square bowl w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 9571
+  },
+  {
+    "NUMBER": "1705F",
+    "DISCR": "Square bowl",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 4874
+  },
+  {
+    "NUMBER": "1705Fd",
+    "DISCR": "Square bowl with border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 7250
+  },
+  {
+    "NUMBER": "1705G",
+    "DISCR": "square bowl",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 4096
+  },
+  {
+    "NUMBER": "1705Gd",
+    "DISCR": "Square bowl w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5584
+  },
+  {
+    "NUMBER": "1706A",
+    "DISCR": "HURALI 10\"",
+    "DIA": "255",
+    "HEIGHT": "90",
+    "PRICE": 16878
+  },
+  {
+    "NUMBER": "1706AK",
+    "DISCR": "HURALI DESIGN 10",
+    "DIA": "255",
+    "HEIGHT": "80",
+    "PRICE": 17727
+  },
+  {
+    "NUMBER": "1706B",
+    "DISCR": "HURALI 9",
+    "DIA": "220",
+    "HEIGHT": "80",
+    "PRICE": 14940
+  },
+  {
+    "NUMBER": "1706BK",
+    "DISCR": "HURALI DESIGN 9",
+    "DIA": "225",
+    "HEIGHT": "70",
+    "PRICE": 15685
+  },
+  {
+    "NUMBER": "1706C",
+    "DISCR": "HURALI 8",
+    "DIA": "200",
+    "HEIGHT": "70",
+    "PRICE": 10695
+  },
+  {
+    "NUMBER": "1706CK",
+    "DISCR": "HURALI DESIGN 8",
+    "DIA": "200",
+    "HEIGHT": "60",
+    "PRICE": 11254
+  },
+  {
+    "NUMBER": "1707A",
+    "DISCR": "Rice plate rectangular",
+    "DIA": "375",
+    "HEIGHT": null,
+    "PRICE": 20894
+  },
+  {
+    "NUMBER": "1707Ad",
+    "DISCR": "Rice plate w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 27267
+  },
+  {
+    "NUMBER": "1707B",
+    "DISCR": "Rice plate rectangular",
+    "DIA": "325",
+    "HEIGHT": null,
+    "PRICE": 16129
+  },
+  {
+    "NUMBER": "1707Bd",
+    "DISCR": "Rice plate w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 21690
+  },
+  {
+    "NUMBER": "1707C",
+    "DISCR": "Rice plate rectangular",
+    "DIA": "280",
+    "HEIGHT": null,
+    "PRICE": 11707
+  },
+  {
+    "NUMBER": "1707Cd",
+    "DISCR": "Rice plate w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 16444
+  },
+  {
+    "NUMBER": "1707D",
+    "DISCR": "Rice plate rectangular",
+    "DIA": "255",
+    "HEIGHT": null,
+    "PRICE": 9811
+  },
+  {
+    "NUMBER": "1707Dd",
+    "DISCR": "Rice plate w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 14084
+  },
+  {
+    "NUMBER": "1711A",
+    "DISCR": "Servic bowl 2.5 litre",
+    "DIA": "230",
+    "HEIGHT": "110",
+    "PRICE": 15501
+  },
+  {
+    "NUMBER": "1711Aa",
+    "DISCR": "Service bowl cover",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 8034
+  },
+  {
+    "NUMBER": "1711Ad",
+    "DISCR": "Service bowl w/border",
+    "DIA": "230",
+    "HEIGHT": "110",
+    "PRICE": 19236
+  },
+  {
+    "NUMBER": "1711B",
+    "DISCR": "Service bowl 2 litre",
+    "DIA": "220",
+    "HEIGHT": "100",
+    "PRICE": 13188
+  },
+  {
+    "NUMBER": "1711Ba",
+    "DISCR": "Service bowl cover",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 7050
+  },
+  {
+    "NUMBER": "1711Bd",
+    "DISCR": "Service bowl w/border",
+    "DIA": "220",
+    "HEIGHT": "100",
+    "PRICE": 16570
+  },
+  {
+    "NUMBER": "1711C",
+    "DISCR": "Service bowl 1.4 litre",
+    "DIA": "195",
+    "HEIGHT": "90",
+    "PRICE": 11089
+  },
+  {
+    "NUMBER": "1711Ca",
+    "DISCR": "Service bowl cover",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5737
+  },
+  {
+    "NUMBER": "1711Cd",
+    "DISCR": "Service bowl w/border",
+    "DIA": "195",
+    "HEIGHT": "90",
+    "PRICE": 14484
+  },
+  {
+    "NUMBER": "1711D",
+    "DISCR": "Service bowl 1 litre",
+    "DIA": "170",
+    "HEIGHT": "80",
+    "PRICE": 9202
+  },
+  {
+    "NUMBER": "1711Da",
+    "DISCR": "Service bowl cover",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5917
+  },
+  {
+    "NUMBER": "1711Dd",
+    "DISCR": "Service bowl w/border",
+    "DIA": "170",
+    "HEIGHT": "80",
+    "PRICE": 11968
+  },
+  {
+    "NUMBER": "1711E",
+    "DISCR": "Service bowl 0.7 litre",
+    "DIA": "155",
+    "HEIGHT": "75",
+    "PRICE": 6626
+  },
+  {
+    "NUMBER": "1711Ea",
+    "DISCR": "Service bowl cover",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3102
+  },
+  {
+    "NUMBER": "1711Ed",
+    "DISCR": "Service bowl w/border",
+    "DIA": "155",
+    "HEIGHT": "75",
+    "PRICE": 9102
+  },
+  {
+    "NUMBER": "1711F",
+    "DISCR": "Service bowl 0.35 ltr",
+    "DIA": "130",
+    "HEIGHT": "55",
+    "PRICE": 4642
+  },
+  {
+    "NUMBER": "1711Fa",
+    "DISCR": "Service bowl cover",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1994
+  },
+  {
+    "NUMBER": "1711Fd",
+    "DISCR": "Service bowl w/border",
+    "DIA": "130",
+    "HEIGHT": "55",
+    "PRICE": 6900
+  },
+  {
+    "NUMBER": "1711G",
+    "DISCR": "Service bowl 0.2 litre",
+    "DIA": "100",
+    "HEIGHT": "50",
+    "PRICE": 3907
+  },
+  {
+    "NUMBER": "1711Ga",
+    "DISCR": "Service bowl cover",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1438
+  },
+  {
+    "NUMBER": "1711Gd",
+    "DISCR": "Service bowl w/border",
+    "DIA": "100",
+    "HEIGHT": "50",
+    "PRICE": 5331
+  },
+  {
+    "NUMBER": "1712E",
+    "DISCR": "Drona Bowl",
+    "DIA": "150",
+    "HEIGHT": "65",
+    "PRICE": 8028
+  },
+  {
+    "NUMBER": "1713D",
+    "DISCR": "Lotus Bowl",
+    "DIA": "165",
+    "HEIGHT": "70",
+    "PRICE": 10118
+  },
+  {
+    "NUMBER": "1714A",
+    "DISCR": "Kunda 2.5 litre",
+    "DIA": "220",
+    "HEIGHT": "95",
+    "PRICE": 15501
+  },
+  {
+    "NUMBER": "1714Aa",
+    "DISCR": "Kunda cover",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 6110
+  },
+  {
+    "NUMBER": "1714Ad",
+    "DISCR": "Kunda w/border",
+    "DIA": "220",
+    "HEIGHT": "95",
+    "PRICE": 19236
+  },
+  {
+    "NUMBER": "1714C",
+    "DISCR": "Kunda 1.4 litre",
+    "DIA": "190",
+    "HEIGHT": "80",
+    "PRICE": 11089
+  },
+  {
+    "NUMBER": "1714Ca",
+    "DISCR": "Kunda cover",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 4803
+  },
+  {
+    "NUMBER": "1714Ccd",
+    "DISCR": "Dofula cage for 1714C",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 11721
+  },
+  {
+    "NUMBER": "1714Cd",
+    "DISCR": "Kunda w/border",
+    "DIA": "190",
+    "HEIGHT": "80",
+    "PRICE": 14484
+  },
+  {
+    "NUMBER": "1714D",
+    "DISCR": "Kunda 1.1 litre",
+    "DIA": "170",
+    "HEIGHT": "70",
+    "PRICE": 9202
+  },
+  {
+    "NUMBER": "1714Da",
+    "DISCR": "Kunda cover",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3590
+  },
+  {
+    "NUMBER": "1714Dcd",
+    "DISCR": "Dofula cage for 1714D",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 10496
+  },
+  {
+    "NUMBER": "1714Dd",
+    "DISCR": "Kunda w/border",
+    "DIA": "170",
+    "HEIGHT": "70",
+    "PRICE": 11968
+  },
+  {
+    "NUMBER": "1714E",
+    "DISCR": "Kunda 0.7 litre",
+    "DIA": "150",
+    "HEIGHT": "60",
+    "PRICE": 6626
+  },
+  {
+    "NUMBER": "1714Ea",
+    "DISCR": "Kunda cover",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3102
+  },
+  {
+    "NUMBER": "1714Ecd",
+    "DISCR": "Dofula cage for 1714E",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 9399
+  },
+  {
+    "NUMBER": "1714Ed",
+    "DISCR": "Kunda w/border",
+    "DIA": "150",
+    "HEIGHT": "60",
+    "PRICE": 9102
+  },
+  {
+    "NUMBER": "1714F",
+    "DISCR": "Kunda 0.35 litre",
+    "DIA": "130",
+    "HEIGHT": "55",
+    "PRICE": 4642
+  },
+  {
+    "NUMBER": "1714Fa",
+    "DISCR": "Kunda cover",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1994
+  },
+  {
+    "NUMBER": "1714Fcd",
+    "DISCR": "Dofula cage for 1714F",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 8095
+  },
+  {
+    "NUMBER": "1714Fd",
+    "DISCR": "Kunda w/border",
+    "DIA": "130",
+    "HEIGHT": "55",
+    "PRICE": 6900
+  },
+  {
+    "NUMBER": "1714G",
+    "DISCR": "Chatani pot",
+    "DIA": "105",
+    "HEIGHT": "43",
+    "PRICE": 2976
+  },
+  {
+    "NUMBER": "1715A",
+    "DISCR": "Salad bowl large",
+    "DIA": "260",
+    "HEIGHT": "55",
+    "PRICE": 13982
+  },
+  {
+    "NUMBER": "1715AA",
+    "DISCR": "Salad bowl large",
+    "DIA": "290",
+    "HEIGHT": "55",
+    "PRICE": 16129
+  },
+  {
+    "NUMBER": "1715AAd",
+    "DISCR": "Salad bowl  w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 21690
+  },
+  {
+    "NUMBER": "1715Aa",
+    "DISCR": "Salad bowl cover",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 8034
+  },
+  {
+    "NUMBER": "1715Ad",
+    "DISCR": "Salad bowl w/border",
+    "DIA": "260",
+    "HEIGHT": "55",
+    "PRICE": 18172
+  },
+  {
+    "NUMBER": "1715C",
+    "DISCR": "Salad bowl medium",
+    "DIA": "225",
+    "HEIGHT": "50",
+    "PRICE": 11089
+  },
+  {
+    "NUMBER": "1715Ca",
+    "DISCR": "Salad bowl cover",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 7050
+  },
+  {
+    "NUMBER": "1715Cd",
+    "DISCR": "Salad bowl w/border",
+    "DIA": "225",
+    "HEIGHT": "50",
+    "PRICE": 14484
+  },
+  {
+    "NUMBER": "1715D",
+    "DISCR": "Salad bowl small",
+    "DIA": "205",
+    "HEIGHT": "50",
+    "PRICE": 9202
+  },
+  {
+    "NUMBER": "1715Da",
+    "DISCR": "Salad bowl cover",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5035
+  },
+  {
+    "NUMBER": "1715Dd",
+    "DISCR": "Salad bowl w/border",
+    "DIA": "205",
+    "HEIGHT": "50",
+    "PRICE": 11968
+  },
+  {
+    "NUMBER": "1715E",
+    "DISCR": "Salad bowl",
+    "DIA": "170",
+    "HEIGHT": "45",
+    "PRICE": 6626
+  },
+  {
+    "NUMBER": "1715Ea",
+    "DISCR": "Salad bowl cover",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3590
+  },
+  {
+    "NUMBER": "1715Ed",
+    "DISCR": "Salad bowl w/border",
+    "DIA": "170",
+    "HEIGHT": "45",
+    "PRICE": 9102
+  },
+  {
+    "NUMBER": "1715F",
+    "DISCR": "Salad bowl",
+    "DIA": "150",
+    "HEIGHT": "40",
+    "PRICE": 5388
+  },
+  {
+    "NUMBER": "1715Fd",
+    "DISCR": "Salad bowl with border",
+    "DIA": "150",
+    "HEIGHT": "40",
+    "PRICE": 7514
+  },
+  {
+    "NUMBER": "1719A",
+    "DISCR": "Kunda `B' 2.5 litre",
+    "DIA": "175",
+    "HEIGHT": "95",
+    "PRICE": 15501
+  },
+  {
+    "NUMBER": "1719Aa",
+    "DISCR": "Kunda `B' cover",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 4386
+  },
+  {
+    "NUMBER": "1719Ad",
+    "DISCR": "Kunda `B' w/border",
+    "DIA": "175",
+    "HEIGHT": "95",
+    "PRICE": 19236
+  },
+  {
+    "NUMBER": "1719B",
+    "DISCR": "Kunda `B' Type",
+    "DIA": "160",
+    "HEIGHT": "85",
+    "PRICE": 13188
+  },
+  {
+    "NUMBER": "1719Ba",
+    "DISCR": "Kunda `B' cover",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3670
+  },
+  {
+    "NUMBER": "1719Bd",
+    "DISCR": "Kunda `B' W/Border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 16570
+  },
+  {
+    "NUMBER": "1719C",
+    "DISCR": "Kunda `B' 1.4 litre",
+    "DIA": "150",
+    "HEIGHT": "80",
+    "PRICE": 11089
+  },
+  {
+    "NUMBER": "1719Ca",
+    "DISCR": "Kunda `B' cover",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3102
+  },
+  {
+    "NUMBER": "1719Cd",
+    "DISCR": "Kunda `B' w/border",
+    "DIA": "150",
+    "HEIGHT": "80",
+    "PRICE": 14484
+  },
+  {
+    "NUMBER": "1719D",
+    "DISCR": "Kunda `B' 1 litre",
+    "DIA": "140",
+    "HEIGHT": "70",
+    "PRICE": 9202
+  },
+  {
+    "NUMBER": "1719DD",
+    "DISCR": "Dofula of 1719D",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 22940
+  },
+  {
+    "NUMBER": "1719DDd",
+    "DISCR": "Dofula of 1719D w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 28630
+  },
+  {
+    "NUMBER": "1719Da",
+    "DISCR": "Kunda cover",
+    "DIA": "145",
+    "HEIGHT": null,
+    "PRICE": 2599
+  },
+  {
+    "NUMBER": "1719Dd",
+    "DISCR": "Kunda `B' w/border",
+    "DIA": "140",
+    "HEIGHT": "70",
+    "PRICE": 11968
+  },
+  {
+    "NUMBER": "1719E",
+    "DISCR": "Kunda `B' 0.6 litre",
+    "DIA": "115",
+    "HEIGHT": "60",
+    "PRICE": 6626
+  },
+  {
+    "NUMBER": "1719E4",
+    "DISCR": "Charfula of 1719e",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 33316
+  },
+  {
+    "NUMBER": "1719EE",
+    "DISCR": "Dofula of 1719E",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 16810
+  },
+  {
+    "NUMBER": "1719EEd",
+    "DISCR": "Dofula of1719E w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 21820
+  },
+  {
+    "NUMBER": "1719Ea",
+    "DISCR": "Kunda `B' cover",
+    "DIA": "120",
+    "HEIGHT": null,
+    "PRICE": 1994
+  },
+  {
+    "NUMBER": "1719Ed",
+    "DISCR": "Kunda `B' w/border",
+    "DIA": "115",
+    "HEIGHT": "60",
+    "PRICE": 9150
+  },
+  {
+    "NUMBER": "1719F",
+    "DISCR": "Kunda `B' 0.35 litre",
+    "DIA": "90",
+    "HEIGHT": "50",
+    "PRICE": 4642
+  },
+  {
+    "NUMBER": "1719FF",
+    "DISCR": "Dofula of 1719F",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 11845
+  },
+  {
+    "NUMBER": "1719FFd",
+    "DISCR": "Dofula of 1719F w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 16172
+  },
+  {
+    "NUMBER": "1719Fa",
+    "DISCR": "Kunda `B' cover",
+    "DIA": "95",
+    "HEIGHT": null,
+    "PRICE": 1275
+  },
+  {
+    "NUMBER": "1719Fd",
+    "DISCR": "Kunda `B' w/border",
+    "DIA": "90",
+    "HEIGHT": "50",
+    "PRICE": 6900
+  },
+  {
+    "NUMBER": "1719G",
+    "DISCR": "Chatani pot w/cover",
+    "DIA": "80",
+    "HEIGHT": "45",
+    "PRICE": 3907
+  },
+  {
+    "NUMBER": "1719Ga",
+    "DISCR": "Cover for chatani pot",
+    "DIA": "88",
+    "HEIGHT": null,
+    "PRICE": 1179
+  },
+  {
+    "NUMBER": "1719Gd",
+    "DISCR": "Chatani pot w/border",
+    "DIA": "80",
+    "HEIGHT": "45",
+    "PRICE": 5331
+  },
+  {
+    "NUMBER": "1719H",
+    "DISCR": "Chatani pot",
+    "DIA": "70",
+    "HEIGHT": "35",
+    "PRICE": 2599
+  },
+  {
+    "NUMBER": "1719Ha",
+    "DISCR": "Cover for chatani pot",
+    "DIA": "78",
+    "HEIGHT": null,
+    "PRICE": 932
+  },
+  {
+    "NUMBER": "1719Hd",
+    "DISCR": "Chatani pot w/border",
+    "DIA": "70",
+    "HEIGHT": "35",
+    "PRICE": 3973
+  },
+  {
+    "NUMBER": "1719I",
+    "DISCR": "Chatani pot",
+    "DIA": "62",
+    "HEIGHT": "32",
+    "PRICE": 2320
+  },
+  {
+    "NUMBER": "1719Ia",
+    "DISCR": "Cover for chatani pot",
+    "DIA": "70",
+    "HEIGHT": null,
+    "PRICE": 741
+  },
+  {
+    "NUMBER": "1719Id",
+    "DISCR": "Chatani pot w/border",
+    "DIA": "62",
+    "HEIGHT": "32",
+    "PRICE": 3004
+  },
+  {
+    "NUMBER": "1721B",
+    "DISCR": "Fugir bowl 1.6 litres",
+    "DIA": "153",
+    "HEIGHT": "92",
+    "PRICE": 13188
+  },
+  {
+    "NUMBER": "1721Ba",
+    "DISCR": "Cover for fugir bowl",
+    "DIA": "155",
+    "HEIGHT": null,
+    "PRICE": 3420
+  },
+  {
+    "NUMBER": "1721Bd",
+    "DISCR": "Fugir bowl w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 16570
+  },
+  {
+    "NUMBER": "1721C",
+    "DISCR": "Fugir bowl 1.4 litres",
+    "DIA": "135",
+    "HEIGHT": "88",
+    "PRICE": 10971
+  },
+  {
+    "NUMBER": "1721Ca",
+    "DISCR": "Cover for fugir bowl",
+    "DIA": "145",
+    "HEIGHT": null,
+    "PRICE": 2853
+  },
+  {
+    "NUMBER": "1721Cd",
+    "DISCR": "Fugir bowl w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 14484
+  },
+  {
+    "NUMBER": "1721D",
+    "DISCR": "FUGIR BOWL",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 9202
+  },
+  {
+    "NUMBER": "1721E",
+    "DISCR": "Fugir Bowl",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 6626
+  },
+  {
+    "NUMBER": "1722D",
+    "DISCR": "Dal degchi 0.8 litre",
+    "DIA": "145",
+    "HEIGHT": "82",
+    "PRICE": 8672
+  },
+  {
+    "NUMBER": "1722Da",
+    "DISCR": "Cover for Dal degchi",
+    "DIA": "150",
+    "HEIGHT": null,
+    "PRICE": 3102
+  },
+  {
+    "NUMBER": "1722Dd",
+    "DISCR": "Dal degchi w/Border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 11350
+  },
+  {
+    "NUMBER": "1722F",
+    "DISCR": "Dal Degchi 0.45 litre",
+    "DIA": "125",
+    "HEIGHT": "68",
+    "PRICE": 5788
+  },
+  {
+    "NUMBER": "1722Fa",
+    "DISCR": "Cover for Dal degchi",
+    "DIA": "128",
+    "HEIGHT": null,
+    "PRICE": 2308
+  },
+  {
+    "NUMBER": "1722Fd",
+    "DISCR": "Dal degchi w/Border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 8095
+  },
+  {
+    "NUMBER": "1723B",
+    "DISCR": "Rice patela 1.8 litre",
+    "DIA": "190",
+    "HEIGHT": "87",
+    "PRICE": 14514
+  },
+  {
+    "NUMBER": "1723Ba",
+    "DISCR": "Cover for rice patele",
+    "DIA": "192",
+    "HEIGHT": null,
+    "PRICE": 4935
+  },
+  {
+    "NUMBER": "1723Bd",
+    "DISCR": "Rice patele with border",
+    "DIA": "190",
+    "HEIGHT": "87",
+    "PRICE": 18252
+  },
+  {
+    "NUMBER": "1723D",
+    "DISCR": "Rice Patela 0.8 litre",
+    "DIA": "160",
+    "HEIGHT": "70",
+    "PRICE": 8672
+  },
+  {
+    "NUMBER": "1723Da",
+    "DISCR": "Cover for 1723D",
+    "DIA": "162",
+    "HEIGHT": null,
+    "PRICE": 3724
+  },
+  {
+    "NUMBER": "1723Dd",
+    "DISCR": "Rice patela w/Border",
+    "DIA": "160",
+    "HEIGHT": "70",
+    "PRICE": 11672
+  },
+  {
+    "NUMBER": "1723E",
+    "DISCR": "Rice Patela 0.45 litre",
+    "DIA": "137",
+    "HEIGHT": "60",
+    "PRICE": 6247
+  },
+  {
+    "NUMBER": "1723Ea",
+    "DISCR": "Cover for 1723E",
+    "DIA": "140",
+    "HEIGHT": null,
+    "PRICE": 2862
+  },
+  {
+    "NUMBER": "1723Ed",
+    "DISCR": "Rice patela w/Border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 8800
+  },
+  {
+    "NUMBER": "1724",
+    "DISCR": "Square dish",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 14820
+  },
+  {
+    "NUMBER": "1724I",
+    "DISCR": "Sq. coaster dish",
+    "DIA": "80",
+    "HEIGHT": "6",
+    "PRICE": 1813
+  },
+  {
+    "NUMBER": "1725B",
+    "DISCR": "Tambakundi 2.5 litre",
+    "DIA": "210",
+    "HEIGHT": "145",
+    "PRICE": 19687
+  },
+  {
+    "NUMBER": "1725Bd",
+    "DISCR": "Tambakundi w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 23480
+  },
+  {
+    "NUMBER": "1725C",
+    "DISCR": "Tambakundi 2 litre",
+    "DIA": "190",
+    "HEIGHT": "120",
+    "PRICE": 17185
+  },
+  {
+    "NUMBER": "1725Cd",
+    "DISCR": "Tambakundi w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 20583
+  },
+  {
+    "NUMBER": "1725D",
+    "DISCR": "Tambakundi 1.1 litre",
+    "DIA": "150",
+    "HEIGHT": "100",
+    "PRICE": 11544
+  },
+  {
+    "NUMBER": "1725Da",
+    "DISCR": null,
+    "DIA": "155",
+    "HEIGHT": null,
+    "PRICE": 3456
+  },
+  {
+    "NUMBER": "1725Dd",
+    "DISCR": "Tambakundi w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 14167
+  },
+  {
+    "NUMBER": "1725G",
+    "DISCR": "Chatani Pot 250 cc.",
+    "DIA": "95",
+    "HEIGHT": "65",
+    "PRICE": 3907
+  },
+  {
+    "NUMBER": "1725Ga",
+    "DISCR": null,
+    "DIA": "90",
+    "HEIGHT": null,
+    "PRICE": 1249
+  },
+  {
+    "NUMBER": "1725Gd",
+    "DISCR": "Chatani pot w/Border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 6513
+  },
+  {
+    "NUMBER": "1726C",
+    "DISCR": "Fruit Bowl",
+    "DIA": "250",
+    "HEIGHT": "90",
+    "PRICE": 15693
+  },
+  {
+    "NUMBER": "1726D",
+    "DISCR": "Fruit Bowl",
+    "DIA": "200",
+    "HEIGHT": "75",
+    "PRICE": 9644
+  },
+  {
+    "NUMBER": "1726F",
+    "DISCR": "Fruit Bowl",
+    "DIA": "150",
+    "HEIGHT": "60",
+    "PRICE": 5434
+  },
+  {
+    "NUMBER": "1726G",
+    "DISCR": "Fruit Bowl",
+    "DIA": "110",
+    "HEIGHT": "45",
+    "PRICE": 3394
+  },
+  {
+    "NUMBER": "1728F",
+    "DISCR": "Dal kunda 0.35 litre",
+    "DIA": "115",
+    "HEIGHT": "60",
+    "PRICE": 5551
+  },
+  {
+    "NUMBER": "1728Fa",
+    "DISCR": "cover for dal kunda",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2335
+  },
+  {
+    "NUMBER": "1728Fd",
+    "DISCR": "Dal kunda w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 7878
+  },
+  {
+    "NUMBER": "1729D",
+    "DISCR": "Kadai  1 litre",
+    "DIA": "230",
+    "HEIGHT": "55",
+    "PRICE": 11822
+  },
+  {
+    "NUMBER": "1729Dd",
+    "DISCR": "Kadai 1 ltr w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 16381
+  },
+  {
+    "NUMBER": "1729E",
+    "DISCR": "Kadai  0.6 litre",
+    "DIA": "175",
+    "HEIGHT": "45",
+    "PRICE": 6900
+  },
+  {
+    "NUMBER": "1729Ed",
+    "DISCR": "Kadai 0.6 ltr w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 10266
+  },
+  {
+    "NUMBER": "1729F",
+    "DISCR": "Kadai  0.3 litre",
+    "DIA": "130",
+    "HEIGHT": "40",
+    "PRICE": 4760
+  },
+  {
+    "NUMBER": "1729Fd",
+    "DISCR": "Kadai 0.3 ltr w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 7320
+  },
+  {
+    "NUMBER": "1735B",
+    "DISCR": "Oval entree dish deep 275X345",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 19236
+  },
+  {
+    "NUMBER": "1735Bd",
+    "DISCR": "Oval entree dish deep w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 23851
+  },
+  {
+    "NUMBER": "1735C",
+    "DISCR": "Oval Entree dish deep 240X330",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 16275
+  },
+  {
+    "NUMBER": "1735Cd",
+    "DISCR": "Oval entree dish deep w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 20606
+  },
+  {
+    "NUMBER": "1735E",
+    "DISCR": "Oval deep dish 190X250",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 9703
+  },
+  {
+    "NUMBER": "1735Ed",
+    "DISCR": "Oval deep dish w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 13923
+  },
+  {
+    "NUMBER": "1737A",
+    "DISCR": "Oval flat dish 310X410",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 22008
+  },
+  {
+    "NUMBER": "1737AA",
+    "DISCR": "Oval flat dish 380X480",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 31431
+  },
+  {
+    "NUMBER": "1737AAd",
+    "DISCR": "Oval flat dish w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 40080
+  },
+  {
+    "NUMBER": "1737Ad",
+    "DISCR": "Oval flat dish w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 29258
+  },
+  {
+    "NUMBER": "1737B",
+    "DISCR": "Oval entree dish flat 285X365",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 17956
+  },
+  {
+    "NUMBER": "1737Bd",
+    "DISCR": "Oval entree dish flat w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 24508
+  },
+  {
+    "NUMBER": "1737C",
+    "DISCR": "Oval entree dish flat 230X350",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 10858
+  },
+  {
+    "NUMBER": "1737Cd",
+    "DISCR": "Oval entree dish flat w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 15409
+  },
+  {
+    "NUMBER": "1737F",
+    "DISCR": "Oval flat dish 190X290",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 7770
+  },
+  {
+    "NUMBER": "1737FK",
+    "DISCR": "OVAL TRAY FANCY WITH BORDER220",
+    "DIA": "220",
+    "HEIGHT": null,
+    "PRICE": 5731
+  },
+  {
+    "NUMBER": "1737Fd",
+    "DISCR": "Oval flat dish w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 12708
+  },
+  {
+    "NUMBER": "1737G",
+    "DISCR": "Oval flat dish 155X235",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5230
+  },
+  {
+    "NUMBER": "1737Gd",
+    "DISCR": "Oval flat dish w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 9202
+  },
+  {
+    "NUMBER": "1738A",
+    "DISCR": "Rectangular Tray 310X450",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 26422
+  },
+  {
+    "NUMBER": "1738Ad",
+    "DISCR": "Rect.Tray 310X450 W/ BORDER",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 35907
+  },
+  {
+    "NUMBER": "1738B",
+    "DISCR": "Rectangular Tray 250X360",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 17019
+  },
+  {
+    "NUMBER": "1738Bd",
+    "DISCR": "Rectangular tray w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 24631
+  },
+  {
+    "NUMBER": "1738C",
+    "DISCR": "Rectangular tray 290X390",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 21051
+  },
+  {
+    "NUMBER": "1738Cd",
+    "DISCR": "Rectangular tray w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 29738
+  },
+  {
+    "NUMBER": "1738D",
+    "DISCR": "Rectangular Tray 195X290",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 10754
+  },
+  {
+    "NUMBER": "1738DK",
+    "DISCR": "RECTANGULAR TRAY FANCY 300*210",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 11001
+  },
+  {
+    "NUMBER": "1738Dd",
+    "DISCR": "Rectangular Tray w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 17019
+  },
+  {
+    "NUMBER": "1738E",
+    "DISCR": "Rectangular Tray 170X250",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 8056
+  },
+  {
+    "NUMBER": "1738Ed",
+    "DISCR": "Rectangular Tray w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 13592
+  },
+  {
+    "NUMBER": "1738F",
+    "DISCR": "Tray for 3 S. Boxes",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 4266
+  },
+  {
+    "NUMBER": "1738Fd",
+    "DISCR": "Tray for 3 S. Boxes w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 8360
+  },
+  {
+    "NUMBER": "1738G",
+    "DISCR": "Tray for 2 S. Boxes",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3127
+  },
+  {
+    "NUMBER": "1738Gd",
+    "DISCR": "Tray for 2 S. Boxes w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 6369
+  },
+  {
+    "NUMBER": "1739FK",
+    "DISCR": "RECT TRAY KAMDAR 340*123",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 6776
+  },
+  {
+    "NUMBER": "1741C",
+    "DISCR": "Rectangular dish 220X285",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 16275
+  },
+  {
+    "NUMBER": "1741Cd",
+    "DISCR": "Rectangular dish with border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 20606
+  },
+  {
+    "NUMBER": "1742C",
+    "DISCR": "Square entree dish 235X235",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 12804
+  },
+  {
+    "NUMBER": "1742Cd",
+    "DISCR": "Suare entree dish with border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 16537
+  },
+  {
+    "NUMBER": "1742E",
+    "DISCR": "Square deep dish 190X190",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 8350
+  },
+  {
+    "NUMBER": "1742Ed",
+    "DISCR": "Square deep dish w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 13218
+  },
+  {
+    "NUMBER": "1743E",
+    "DISCR": "SQ TRAY 200*200",
+    "DIA": null,
+    "HEIGHT": "10",
+    "PRICE": 5551
+  },
+  {
+    "NUMBER": "1744A",
+    "DISCR": "SQ.FLAT DISH 270*270",
+    "DIA": null,
+    "HEIGHT": "023",
+    "PRICE": 14834
+  },
+  {
+    "NUMBER": "1745H",
+    "DISCR": "Heart Shape Bowl",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2970
+  },
+  {
+    "NUMBER": "1745L",
+    "DISCR": "Leaf tray",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3469
+  },
+  {
+    "NUMBER": "1745S",
+    "DISCR": "Double Swan",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 4860
+  },
+  {
+    "NUMBER": "1746A",
+    "DISCR": "Duck shape nut bowl large",
+    "DIA": "120",
+    "HEIGHT": "120",
+    "PRICE": 4820
+  },
+  {
+    "NUMBER": "1746B",
+    "DISCR": "Duck shape nut bowl medium",
+    "DIA": "100",
+    "HEIGHT": "110",
+    "PRICE": 3914
+  },
+  {
+    "NUMBER": "1746C",
+    "DISCR": "Duck shape nut bowl small",
+    "DIA": "90",
+    "HEIGHT": "105",
+    "PRICE": 3019
+  },
+  {
+    "NUMBER": "1751A",
+    "DISCR": "Tea pot for 6 cups",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 14300
+  },
+  {
+    "NUMBER": "1751Ad",
+    "DISCR": "Tea pot for 6 cups  w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 16382
+  },
+  {
+    "NUMBER": "1751B",
+    "DISCR": "Tea pot for 4 cups",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 11076
+  },
+  {
+    "NUMBER": "1751Bd",
+    "DISCR": "Tea pot for 4 cups w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 12818
+  },
+  {
+    "NUMBER": "1751C",
+    "DISCR": "Tea pot for 2 cups",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 9000
+  },
+  {
+    "NUMBER": "1751Cd",
+    "DISCR": "Tea pot for 2 cups w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 10393
+  },
+  {
+    "NUMBER": "1752A",
+    "DISCR": "Milk pot for 6 cups",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 7155
+  },
+  {
+    "NUMBER": "1752Ad",
+    "DISCR": "Milk pot 6 cups w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 8200
+  },
+  {
+    "NUMBER": "1752B",
+    "DISCR": "Milk pot for 4 cups",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5551
+  },
+  {
+    "NUMBER": "1752Bd",
+    "DISCR": "Milk pot 4 cups w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 6428
+  },
+  {
+    "NUMBER": "1752C",
+    "DISCR": "Milk pot for 2 cups",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 4485
+  },
+  {
+    "NUMBER": "1752Cd",
+    "DISCR": "ATEk pot 2 cups w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5276
+  },
+  {
+    "NUMBER": "1753A",
+    "DISCR": "Sugar pot for 6 cups",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 7155
+  },
+  {
+    "NUMBER": "1753Ad",
+    "DISCR": "Sugar pot 6 cups w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 8200
+  },
+  {
+    "NUMBER": "1753B",
+    "DISCR": "Sugar pot for 4 cups",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5551
+  },
+  {
+    "NUMBER": "1753Bd",
+    "DISCR": "Sugar pot 2 cups w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 6428
+  },
+  {
+    "NUMBER": "1753C",
+    "DISCR": "Sugar pot for 2 cups",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 4485
+  },
+  {
+    "NUMBER": "1753Cd",
+    "DISCR": "Sugar pot 2 cups w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5737
+  },
+  {
+    "NUMBER": "1754",
+    "DISCR": "Tea cup",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3405
+  },
+  {
+    "NUMBER": "1755",
+    "DISCR": "Saucer for tea cup",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3405
+  },
+  {
+    "NUMBER": "1757D",
+    "DISCR": "FLAT FANCY FRUIT BOWL",
+    "DIA": "245",
+    "HEIGHT": "42",
+    "PRICE": 10093
+  },
+  {
+    "NUMBER": "1757F",
+    "DISCR": "Flat fancy nut bowl",
+    "DIA": "200",
+    "HEIGHT": "40",
+    "PRICE": 5438
+  },
+  {
+    "NUMBER": "1757G",
+    "DISCR": "FLAT FANCY NUT BOWL",
+    "DIA": "150",
+    "HEIGHT": "30",
+    "PRICE": 4118
+  },
+  {
+    "NUMBER": "1758D",
+    "DISCR": "Deep fancy nut bowl",
+    "DIA": "190",
+    "HEIGHT": "70",
+    "PRICE": 9638
+  },
+  {
+    "NUMBER": "1758F",
+    "DISCR": "Deep fancy nut bowl",
+    "DIA": "175",
+    "HEIGHT": "48",
+    "PRICE": 5438
+  },
+  {
+    "NUMBER": "1758G",
+    "DISCR": "Deep fancy nut bowl",
+    "DIA": "150",
+    "HEIGHT": "40",
+    "PRICE": 3394
+  },
+  {
+    "NUMBER": "1759D",
+    "DISCR": "Fancy cut bowl",
+    "DIA": "190",
+    "HEIGHT": "80",
+    "PRICE": 9644
+  },
+  {
+    "NUMBER": "1762",
+    "DISCR": "Salt bottle",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2565
+  },
+  {
+    "NUMBER": "1762d",
+    "DISCR": "Salt bottle W/Border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3308
+  },
+  {
+    "NUMBER": "1763",
+    "DISCR": "Pepper bottle",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2565
+  },
+  {
+    "NUMBER": "1763d",
+    "DISCR": "Pepper bottle W/Border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3308
+  },
+  {
+    "NUMBER": "1765",
+    "DISCR": "Oval tray for cruet set",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2695
+  },
+  {
+    "NUMBER": "1765d",
+    "DISCR": "Oval tray w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 4314
+  },
+  {
+    "NUMBER": "1767A",
+    "DISCR": "Sauce boat 250 cc.",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 6703
+  },
+  {
+    "NUMBER": "1767Ad",
+    "DISCR": "Sauce boat w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 9522
+  },
+  {
+    "NUMBER": "1767B",
+    "DISCR": "Sauce boat 150 cc.",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5848
+  },
+  {
+    "NUMBER": "1767Bd",
+    "DISCR": "Sauce boat w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 7726
+  },
+  {
+    "NUMBER": "1767C",
+    "DISCR": "Sauce boat 120 cc.",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 4386
+  },
+  {
+    "NUMBER": "1767Cd",
+    "DISCR": "Sauce boat w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5929
+  },
+  {
+    "NUMBER": "1768D",
+    "DISCR": "Kamandal 1 litre",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 11845
+  },
+  {
+    "NUMBER": "1768Dd",
+    "DISCR": "Kamandal w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 13188
+  },
+  {
+    "NUMBER": "1768E",
+    "DISCR": "Kamandal .5 litre",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 9603
+  },
+  {
+    "NUMBER": "1768Ed",
+    "DISCR": "Kamandal w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 10868
+  },
+  {
+    "NUMBER": "1768G",
+    "DISCR": "Kamandal 150 cc.",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 6110
+  },
+  {
+    "NUMBER": "1768Gd",
+    "DISCR": "Kamandal w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 6960
+  },
+  {
+    "NUMBER": "1770A",
+    "DISCR": "Poli dabba",
+    "DIA": "257",
+    "HEIGHT": "40",
+    "PRICE": 15392
+  },
+  {
+    "NUMBER": "1770Aa",
+    "DISCR": "Cover for poli dabba",
+    "DIA": "260",
+    "HEIGHT": "15",
+    "PRICE": 10986
+  },
+  {
+    "NUMBER": "1771A",
+    "DISCR": "Tea pot for 6 cups",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 16382
+  },
+  {
+    "NUMBER": "1771AA",
+    "DISCR": "Tea pot for 8 cups",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 20092
+  },
+  {
+    "NUMBER": "1772A",
+    "DISCR": "Milk pot for 6 cups",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 8200
+  },
+  {
+    "NUMBER": "1773A",
+    "DISCR": "Sugar pot for 6 cups",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 8200
+  },
+  {
+    "NUMBER": "1776AA",
+    "DISCR": "LEAF TRAY FANCY",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5545
+  },
+  {
+    "NUMBER": "1777G",
+    "DISCR": "APPLE SHAPED FANCY BOWL MED",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3394
+  },
+  {
+    "NUMBER": "1777H",
+    "DISCR": "APPLE SHAPED FANCY BOWL SMALL",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2516
+  },
+  {
+    "NUMBER": "1777I",
+    "DISCR": "APPLE SHAPED FANCY BOWL SMALL",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1586
+  },
+  {
+    "NUMBER": "1778G",
+    "DISCR": "MANGO SHAPED FANCY BOWL MED",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3394
+  },
+  {
+    "NUMBER": "1778H",
+    "DISCR": "MANGO SHAPED FANCY BOWL-SMALL",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2516
+  },
+  {
+    "NUMBER": "1779G",
+    "DISCR": "SMALL BOWL FANCY 4",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2516
+  },
+  {
+    "NUMBER": "1781C",
+    "DISCR": "Rectangular baked dish liner",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 14938
+  },
+  {
+    "NUMBER": "1781Cd",
+    "DISCR": "Rectangular baked dish liner",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 14938
+  },
+  {
+    "NUMBER": "1781D",
+    "DISCR": "Rectangular baked dish liner",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 12208
+  },
+  {
+    "NUMBER": "1781Dd",
+    "DISCR": "Rectangular baked dish liner",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 12208
+  },
+  {
+    "NUMBER": "1782C",
+    "DISCR": "Square baked dish liner",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 19418
+  },
+  {
+    "NUMBER": "1782Cd",
+    "DISCR": "Square baked dish liner",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 19418
+  },
+  {
+    "NUMBER": "1782D",
+    "DISCR": "Square baked dish liner",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 18358
+  },
+  {
+    "NUMBER": "1782Dd",
+    "DISCR": "Square baked dish liner",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 18358
+  },
+  {
+    "NUMBER": "1790B",
+    "DISCR": "Cheffing dish round",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 67581
+  },
+  {
+    "NUMBER": "1790Ba",
+    "DISCR": "Cover for cheffing dish",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 12208
+  },
+  {
+    "NUMBER": "1790Bb",
+    "DISCR": "Cheffing dish water bowl",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 18297
+  },
+  {
+    "NUMBER": "1790Bc",
+    "DISCR": "Cheffing dish food bowl",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 15163
+  },
+  {
+    "NUMBER": "1790Bd",
+    "DISCR": "Cheffing dish w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 67581
+  },
+  {
+    "NUMBER": "1790Be",
+    "DISCR": "Cheffing dish burner",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3627
+  },
+  {
+    "NUMBER": "1790Bf",
+    "DISCR": "Cheffing dish burner cover",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 855
+  },
+  {
+    "NUMBER": "1790Bs",
+    "DISCR": "Cheffing dish stand",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 17458
+  },
+  {
+    "NUMBER": "1790C",
+    "DISCR": "Ceffing dish round",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 55656
+  },
+  {
+    "NUMBER": "1790Ca",
+    "DISCR": "Cheffing dish cover",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 8172
+  },
+  {
+    "NUMBER": "1790Cb",
+    "DISCR": "Cheffing dish water bowl",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 15501
+  },
+  {
+    "NUMBER": "1790Cc",
+    "DISCR": "Cheffing dish food bowl",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 14484
+  },
+  {
+    "NUMBER": "1790Cd",
+    "DISCR": "Cheffing dish w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 55656
+  },
+  {
+    "NUMBER": "1790Ce",
+    "DISCR": "Cheffing dish burner",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2970
+  },
+  {
+    "NUMBER": "1790Cf",
+    "DISCR": "Cheffing dish burner cover",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 735
+  },
+  {
+    "NUMBER": "1790Cs",
+    "DISCR": "Cheffing Dish stand",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 13824
+  },
+  {
+    "NUMBER": "1790D",
+    "DISCR": "Cheffing dish round",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 43447
+  },
+  {
+    "NUMBER": "1790Da",
+    "DISCR": "Cheffing dish cover",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 6057
+  },
+  {
+    "NUMBER": "1790Db",
+    "DISCR": "Cheffing dish water bowl",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 11089
+  },
+  {
+    "NUMBER": "1790Dc",
+    "DISCR": "Cheffing dish food bowl",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 12687
+  },
+  {
+    "NUMBER": "1790Dd",
+    "DISCR": "Cheffing dish w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 43447
+  },
+  {
+    "NUMBER": "1790De",
+    "DISCR": "Cheffing dish burner",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2970
+  },
+  {
+    "NUMBER": "1790Df",
+    "DISCR": "cheffing dish burner cover",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 735
+  },
+  {
+    "NUMBER": "1790Ds",
+    "DISCR": "Cheffing dish stand",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 9926
+  },
+  {
+    "NUMBER": "1790E",
+    "DISCR": "Cheffing dish small",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 6728
+  },
+  {
+    "NUMBER": "1790Ee",
+    "DISCR": "Cheffing dish burner",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1351
+  },
+  {
+    "NUMBER": "1790Es",
+    "DISCR": "Cheffing dish stand",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5388
+  },
+  {
+    "NUMBER": "1791A",
+    "DISCR": "Cheffing dish rectangular",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 83636
+  },
+  {
+    "NUMBER": "1801A",
+    "DISCR": "Tamhan large",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 6321
+  },
+  {
+    "NUMBER": "1801B",
+    "DISCR": "Tamhan medium",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5421
+  },
+  {
+    "NUMBER": "1801C",
+    "DISCR": "Tamhan small",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3842
+  },
+  {
+    "NUMBER": "1801Cd",
+    "DISCR": "Tamhan small w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 6472
+  },
+  {
+    "NUMBER": "1802A",
+    "DISCR": "TABAK LARGE",
+    "DIA": "220",
+    "HEIGHT": "15",
+    "PRICE": 7278
+  },
+  {
+    "NUMBER": "1802B",
+    "DISCR": "TABAK MEDIUM",
+    "DIA": "190",
+    "HEIGHT": "15",
+    "PRICE": 4852
+  },
+  {
+    "NUMBER": "1803A",
+    "DISCR": "Tortoise Large",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1542
+  },
+  {
+    "NUMBER": "1803B",
+    "DISCR": "Tortoise small",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 883
+  },
+  {
+    "NUMBER": "1804A",
+    "DISCR": "Achamani large",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 886
+  },
+  {
+    "NUMBER": "1804B",
+    "DISCR": "Achamani small",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 652
+  },
+  {
+    "NUMBER": "1804Bd",
+    "DISCR": "Achamani small w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1179
+  },
+  {
+    "NUMBER": "1805A",
+    "DISCR": "AGGARBATTI STAND LARGE",
+    "DIA": null,
+    "HEIGHT": "40",
+    "PRICE": 825
+  },
+  {
+    "NUMBER": "1805B",
+    "DISCR": "AGGARBATTI STAND MEDIUM",
+    "DIA": null,
+    "HEIGHT": "32",
+    "PRICE": 685
+  },
+  {
+    "NUMBER": "1806A",
+    "DISCR": "Panchpatra large",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2682
+  },
+  {
+    "NUMBER": "1806B",
+    "DISCR": "Panchpatra small",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2409
+  },
+  {
+    "NUMBER": "1806Bd",
+    "DISCR": "Panchpatra small w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3889
+  },
+  {
+    "NUMBER": "1807A",
+    "DISCR": "Agarbatii stand large",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 652
+  },
+  {
+    "NUMBER": "1807AA",
+    "DISCR": "Agarbatti stand extra large",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 807
+  },
+  {
+    "NUMBER": "1807B",
+    "DISCR": "Agarbatti stand small",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 592
+  },
+  {
+    "NUMBER": "1807Q",
+    "DISCR": "AGGARBATI STAND SHANKH",
+    "DIA": "50",
+    "HEIGHT": "50",
+    "PRICE": 1303
+  },
+  {
+    "NUMBER": "1808A",
+    "DISCR": "AGGARBATTI STAND TOWER LARGE",
+    "DIA": null,
+    "HEIGHT": "65",
+    "PRICE": 958
+  },
+  {
+    "NUMBER": "1808B",
+    "DISCR": "Aggarbatti stand small",
+    "DIA": null,
+    "HEIGHT": "50",
+    "PRICE": 825
+  },
+  {
+    "NUMBER": "1809",
+    "DISCR": "Chandan thati",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 499
+  },
+  {
+    "NUMBER": "1810A",
+    "DISCR": "Ghanta big",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1687
+  },
+  {
+    "NUMBER": "1810B",
+    "DISCR": "Ghanta small",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1528
+  },
+  {
+    "NUMBER": "1810Bd",
+    "DISCR": "Ghanta small w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2485
+  },
+  {
+    "NUMBER": "1810C",
+    "DISCR": "Gahanta extra small",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1335
+  },
+  {
+    "NUMBER": "1811AD",
+    "DISCR": "BELL DOR HANDLE",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1941
+  },
+  {
+    "NUMBER": "1812A",
+    "DISCR": "Divi large",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1500
+  },
+  {
+    "NUMBER": "1812B",
+    "DISCR": "Divi medium",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 886
+  },
+  {
+    "NUMBER": "1813",
+    "DISCR": "Divi small",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 728
+  },
+  {
+    "NUMBER": "1814A",
+    "DISCR": "Samai Fancy",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5545
+  },
+  {
+    "NUMBER": "1817",
+    "DISCR": "DIVA STAND KAMAL DESIGN FLAT",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1988
+  },
+  {
+    "NUMBER": "1818",
+    "DISCR": "CANDLE STAND LOTUS DESIGN",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1988
+  },
+  {
+    "NUMBER": "1819",
+    "DISCR": "Kapurarti",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 886
+  },
+  {
+    "NUMBER": "1820",
+    "DISCR": "Kachole simple",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1860
+  },
+  {
+    "NUMBER": "1821",
+    "DISCR": "Kachole bilwadali",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1860
+  },
+  {
+    "NUMBER": "1822",
+    "DISCR": "Shankhadani",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1267
+  },
+  {
+    "NUMBER": "1822A",
+    "DISCR": "KAMAL DIVA WITHOUD STAND",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1718
+  },
+  {
+    "NUMBER": "1822B",
+    "DISCR": "KAMAL DIVA WITHOUT STAND",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1526
+  },
+  {
+    "NUMBER": "1823",
+    "DISCR": "Ekarati",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2275
+  },
+  {
+    "NUMBER": "1824A",
+    "DISCR": "SAMAI SQ.LARGE",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 8164
+  },
+  {
+    "NUMBER": "1824B",
+    "DISCR": "SAMAI SQ.SMALL",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 6612
+  },
+  {
+    "NUMBER": "1824C",
+    "DISCR": "SAMI SMALL",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3087
+  },
+  {
+    "NUMBER": "1825",
+    "DISCR": "JALI DIVA",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5578
+  },
+  {
+    "NUMBER": "1826",
+    "DISCR": "Ekarati Cast",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1500
+  },
+  {
+    "NUMBER": "1827",
+    "DISCR": "Pancharati",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3582
+  },
+  {
+    "NUMBER": "1828C",
+    "DISCR": "FUGIR CENTER WAT DIVA FLAT",
+    "DIA": "75",
+    "HEIGHT": "30",
+    "PRICE": 1461
+  },
+  {
+    "NUMBER": "1828D",
+    "DISCR": "FUGIR CENTER WAT DIVA FLAT S",
+    "DIA": "70",
+    "HEIGHT": "28",
+    "PRICE": 1096
+  },
+  {
+    "NUMBER": "1829C",
+    "DISCR": "CENTER WAT DIVA CUP TYPE",
+    "DIA": "65",
+    "HEIGHT": "48",
+    "PRICE": 1461
+  },
+  {
+    "NUMBER": "1831B",
+    "DISCR": "CENTER WAT DIVA TALL PLAIN",
+    "DIA": "95",
+    "HEIGHT": "85",
+    "PRICE": 2217
+  },
+  {
+    "NUMBER": "1831C",
+    "DISCR": "KAMAL DIVA CENTER WAT SMALL",
+    "DIA": "65",
+    "HEIGHT": "60",
+    "PRICE": 1562
+  },
+  {
+    "NUMBER": "1832A",
+    "DISCR": "DIVA WITH CENTER WAT",
+    "DIA": "90",
+    "HEIGHT": "70",
+    "PRICE": 3439
+  },
+  {
+    "NUMBER": "1832B",
+    "DISCR": "DIVA WITH CENTER WAT MEDIUM",
+    "DIA": "60",
+    "HEIGHT": "45",
+    "PRICE": 2752
+  },
+  {
+    "NUMBER": "1832D",
+    "DISCR": "DIVA CENTER WAT",
+    "DIA": "50",
+    "HEIGHT": "35",
+    "PRICE": 998
+  },
+  {
+    "NUMBER": "1832E",
+    "DISCR": "DIVA CENTER WAT",
+    "DIA": "43",
+    "HEIGHT": "32",
+    "PRICE": 804
+  },
+  {
+    "NUMBER": "1833A",
+    "DISCR": "KAMAL DIVA WITH STAND LARGE",
+    "DIA": "110",
+    "HEIGHT": "170",
+    "PRICE": 6829
+  },
+  {
+    "NUMBER": "1833B",
+    "DISCR": "KAMAL DIVA WITH STAND MED",
+    "DIA": "955",
+    "HEIGHT": "150",
+    "PRICE": 5464
+  },
+  {
+    "NUMBER": "1833C",
+    "DISCR": "KAMAL DIVA WITH STAND SMALL",
+    "DIA": "85",
+    "HEIGHT": "125",
+    "PRICE": 4100
+  },
+  {
+    "NUMBER": "1833D",
+    "DISCR": "KAMAL DIVA WIH STAND V.SMALL",
+    "DIA": "55",
+    "HEIGHT": "75",
+    "PRICE": 1777
+  },
+  {
+    "NUMBER": "1834A",
+    "DISCR": "SAMAI",
+    "DIA": null,
+    "HEIGHT": "340",
+    "PRICE": 8023
+  },
+  {
+    "NUMBER": "1834AA",
+    "DISCR": "SAMAI LARGE",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 13867
+  },
+  {
+    "NUMBER": "1834B",
+    "DISCR": "SAMAI",
+    "DIA": null,
+    "HEIGHT": "275",
+    "PRICE": 6667
+  },
+  {
+    "NUMBER": "1834C",
+    "DISCR": "SAMAI",
+    "DIA": null,
+    "HEIGHT": "185",
+    "PRICE": 5834
+  },
+  {
+    "NUMBER": "1834D",
+    "DISCR": "SAMAI",
+    "DIA": null,
+    "HEIGHT": "165",
+    "PRICE": 3439
+  },
+  {
+    "NUMBER": "1834E",
+    "DISCR": "SAMAI",
+    "DIA": null,
+    "HEIGHT": "155",
+    "PRICE": 2752
+  },
+  {
+    "NUMBER": "1834F",
+    "DISCR": "SAMAI",
+    "DIA": null,
+    "HEIGHT": "135",
+    "PRICE": 2293
+  },
+  {
+    "NUMBER": "1835A",
+    "DISCR": "SAMAI LARGE",
+    "DIA": null,
+    "HEIGHT": "785",
+    "PRICE": 26044
+  },
+  {
+    "NUMBER": "1835B",
+    "DISCR": "SANAI MEDIUM",
+    "DIA": null,
+    "HEIGHT": "585",
+    "PRICE": 20264
+  },
+  {
+    "NUMBER": "1835B",
+    "DISCR": "SANAI MEDIUM",
+    "DIA": null,
+    "HEIGHT": "515",
+    "PRICE": 16354
+  },
+  {
+    "NUMBER": "1835B",
+    "DISCR": "SANAI MEDIUM",
+    "DIA": null,
+    "HEIGHT": "480",
+    "PRICE": 14899
+  },
+  {
+    "NUMBER": "1836A",
+    "DISCR": "POPAT DIVA",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3439
+  },
+  {
+    "NUMBER": "1837A",
+    "DISCR": "Panati large",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 927
+  },
+  {
+    "NUMBER": "1837Ad",
+    "DISCR": "Panati large w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1866
+  },
+  {
+    "NUMBER": "1837B",
+    "DISCR": "Panati small",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 774
+  },
+  {
+    "NUMBER": "1837Bd",
+    "DISCR": "Panati small w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1710
+  },
+  {
+    "NUMBER": "1839A",
+    "DISCR": "FUGIR C,WAT FALT DIVA FANCY",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1232
+  },
+  {
+    "NUMBER": "1839B",
+    "DISCR": "FUGIR C.WAT FLAT FANCY DIVA",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1024
+  },
+  {
+    "NUMBER": "1841B",
+    "DISCR": "FUGIR CENTER WAT FLAT SMALL",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1024
+  },
+  {
+    "NUMBER": "1842A",
+    "DISCR": "KAMAL DIVA FUGIR WITHOUT ST.",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2458
+  },
+  {
+    "NUMBER": "1842B",
+    "DISCR": "KAMAL DIVA FUGIR WITHOUT ST.",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1638
+  },
+  {
+    "NUMBER": "1846",
+    "DISCR": "PARAG CENTER WAT DIVA",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1526
+  },
+  {
+    "NUMBER": "1847A",
+    "DISCR": "AGGARBATTI STAND QUBE",
+    "DIA": null,
+    "HEIGHT": "25",
+    "PRICE": 1087
+  },
+  {
+    "NUMBER": "1847B",
+    "DISCR": "AGGARBATTI STAND QUBE MED",
+    "DIA": null,
+    "HEIGHT": "20",
+    "PRICE": 804
+  },
+  {
+    "NUMBER": "1848A",
+    "DISCR": "KOYARI CAST LARGE",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5042
+  },
+  {
+    "NUMBER": "1848B",
+    "DISCR": "CENTER WAT DIVA FUGIR PLAIN",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1262
+  },
+  {
+    "NUMBER": "1848B",
+    "DISCR": "KOYARI CAST MEDIUM",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 4160
+  },
+  {
+    "NUMBER": "1851C",
+    "DISCR": "CENTER WAT DIVA H LINES",
+    "DIA": "55",
+    "HEIGHT": "65",
+    "PRICE": 1666
+  },
+  {
+    "NUMBER": "1852C",
+    "DISCR": "LEHER DEEP",
+    "DIA": "65",
+    "HEIGHT": "35",
+    "PRICE": 1251
+  },
+  {
+    "NUMBER": "1853D",
+    "DISCR": "SALAI DEEP",
+    "DIA": "55",
+    "HEIGHT": "32",
+    "PRICE": 1147
+  },
+  {
+    "NUMBER": "1872A",
+    "DISCR": "5 wat niranjan large",
+    "DIA": null,
+    "HEIGHT": "45",
+    "PRICE": 1501
+  },
+  {
+    "NUMBER": "1872B",
+    "DISCR": "5 wat niranjan small",
+    "DIA": "55",
+    "HEIGHT": "40",
+    "PRICE": 886
+  },
+  {
+    "NUMBER": "1877A",
+    "DISCR": "KAPUR ARTI LARGE",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2293
+  },
+  {
+    "NUMBER": "1877B",
+    "DISCR": "KAPUR ARTI SMALL",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1376
+  },
+  {
+    "NUMBER": "1884A",
+    "DISCR": "CENTER WAT DIVA WITH JALI LEAV",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2293
+  },
+  {
+    "NUMBER": "1884A",
+    "DISCR": "CENTER WAT DIVA FUGIR PLAIN",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1832
+  },
+  {
+    "NUMBER": "1884B",
+    "DISCR": "CENTER WAT DIVA JALI LEAF",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1832
+  },
+  {
+    "NUMBER": "1884C",
+    "DISCR": "CENTER WAT DIVA JALI LEAF",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1376
+  },
+  {
+    "NUMBER": "1892A",
+    "DISCR": "DIVA STAND WITH BELL",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 9168
+  },
+  {
+    "NUMBER": "1892T",
+    "DISCR": "CENTER WAT DIVA WITH LINES",
+    "DIA": "50",
+    "HEIGHT": "65",
+    "PRICE": 1666
+  },
+  {
+    "NUMBER": "1896B",
+    "DISCR": "KARAND PLAIN SMALL",
+    "DIA": "40",
+    "HEIGHT": "40",
+    "PRICE": 1260
+  },
+  {
+    "NUMBER": "1902",
+    "DISCR": "Coaster",
+    "DIA": "86",
+    "HEIGHT": "12",
+    "PRICE": 1380
+  },
+  {
+    "NUMBER": "1902d",
+    "DISCR": "Coaster w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2782
+  },
+  {
+    "NUMBER": "1903",
+    "DISCR": "Visiting card holder",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3050
+  },
+  {
+    "NUMBER": "1904",
+    "DISCR": "Napkin ring",
+    "DIA": "45",
+    "HEIGHT": null,
+    "PRICE": 832
+  },
+  {
+    "NUMBER": "1905A",
+    "DISCR": "Box for supari big",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3420
+  },
+  {
+    "NUMBER": "1905Aa",
+    "DISCR": "Cover for suari box",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1
+  },
+  {
+    "NUMBER": "1905Ad",
+    "DISCR": "Box for supari w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 4585
+  },
+  {
+    "NUMBER": "1905B",
+    "DISCR": "Box for supari medium",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2437
+  },
+  {
+    "NUMBER": "1905Ba",
+    "DISCR": "Cover for supari box",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1
+  },
+  {
+    "NUMBER": "1905Bd",
+    "DISCR": "Box for supari m. w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3405
+  },
+  {
+    "NUMBER": "1905C",
+    "DISCR": "Box for supari small",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2042
+  },
+  {
+    "NUMBER": "1905Ca",
+    "DISCR": "Cover for supari box",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1
+  },
+  {
+    "NUMBER": "1905Cd",
+    "DISCR": "Box for supari small w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2832
+  },
+  {
+    "NUMBER": "1906",
+    "DISCR": "Ash tray",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3325
+  },
+  {
+    "NUMBER": "1908d",
+    "DISCR": "Pan stand",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 6958
+  },
+  {
+    "NUMBER": "1909",
+    "DISCR": "Pan kadi",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 832
+  },
+  {
+    "NUMBER": "1910",
+    "DISCR": "Icecream cup",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2971
+  },
+  {
+    "NUMBER": "1910Z",
+    "DISCR": "Saucer for I. cup",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2334
+  },
+  {
+    "NUMBER": "1910d",
+    "DISCR": "I.cup w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 4194
+  },
+  {
+    "NUMBER": "1912",
+    "DISCR": "Tea strainer w/stand",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3409
+  },
+  {
+    "NUMBER": "1912K",
+    "DISCR": "Tea strainer kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3576
+  },
+  {
+    "NUMBER": "1915a",
+    "DISCR": "Cover for butter pot",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1332
+  },
+  {
+    "NUMBER": "1915d",
+    "DISCR": "Butter pot",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 7732
+  },
+  {
+    "NUMBER": "1917A",
+    "DISCR": "SICCOR SPOON+FORK",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3678
+  },
+  {
+    "NUMBER": "1918",
+    "DISCR": "Ice tong",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1934
+  },
+  {
+    "NUMBER": "1918d",
+    "DISCR": "Ice tong w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3363
+  },
+  {
+    "NUMBER": "1919",
+    "DISCR": "Puri tong round",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1934
+  },
+  {
+    "NUMBER": "1919d",
+    "DISCR": "Puri tong round w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3363
+  },
+  {
+    "NUMBER": "1920",
+    "DISCR": "Bhatia",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3061
+  },
+  {
+    "NUMBER": "1920T",
+    "DISCR": "Bhatia taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3444
+  },
+  {
+    "NUMBER": "1920d",
+    "DISCR": "Bhatia w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3598
+  },
+  {
+    "NUMBER": "1921",
+    "DISCR": "Cake server",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2779
+  },
+  {
+    "NUMBER": "1921T",
+    "DISCR": "Cake server taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3444
+  },
+  {
+    "NUMBER": "1921d",
+    "DISCR": "Cake server w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3757
+  },
+  {
+    "NUMBER": "1922d",
+    "DISCR": "Coaster w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2953
+  },
+  {
+    "NUMBER": "1924",
+    "DISCR": "Sugar tong",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3
+  },
+  {
+    "NUMBER": "1926",
+    "DISCR": "Bhatia round",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2779
+  },
+  {
+    "NUMBER": "1926B",
+    "DISCR": "Bhatia round bamboo",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3444
+  },
+  {
+    "NUMBER": "1926D",
+    "DISCR": "Bhatia round danedar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3444
+  },
+  {
+    "NUMBER": "1926K",
+    "DISCR": "Bhatia round kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3072
+  },
+  {
+    "NUMBER": "1926S",
+    "DISCR": "Bhatia round \"S\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3444
+  },
+  {
+    "NUMBER": "1926T",
+    "DISCR": "Bhatia round taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3444
+  },
+  {
+    "NUMBER": "1926V",
+    "DISCR": "Bhatia round \"V\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3444
+  },
+  {
+    "NUMBER": "1926d",
+    "DISCR": "Bhatia roumd w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3757
+  },
+  {
+    "NUMBER": "1927A",
+    "DISCR": "Soup laddle large",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3237
+  },
+  {
+    "NUMBER": "1927AK",
+    "DISCR": "Soup laddle large kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3584
+  },
+  {
+    "NUMBER": "1927AT",
+    "DISCR": "Large soup laddle taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 4069
+  },
+  {
+    "NUMBER": "1927Ad",
+    "DISCR": "Soup laddle large w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 4501
+  },
+  {
+    "NUMBER": "1927B",
+    "DISCR": "Soup laddle medium",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2779
+  },
+  {
+    "NUMBER": "1927BB",
+    "DISCR": "Soup laddle medium bambo",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3444
+  },
+  {
+    "NUMBER": "1927BD",
+    "DISCR": "Soup laddle medium danedar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3444
+  },
+  {
+    "NUMBER": "1927BK",
+    "DISCR": "Soup laddle m. kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3072
+  },
+  {
+    "NUMBER": "1927BS",
+    "DISCR": "Soup laddle medium",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3444
+  },
+  {
+    "NUMBER": "1927BT",
+    "DISCR": "Soup laddle m. taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3444
+  },
+  {
+    "NUMBER": "1927BV",
+    "DISCR": "Soup laddle medium",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3444
+  },
+  {
+    "NUMBER": "1927Bd",
+    "DISCR": "Soup laddle m. w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3757
+  },
+  {
+    "NUMBER": "1927C",
+    "DISCR": "Soup laddle small",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1842
+  },
+  {
+    "NUMBER": "1927CB",
+    "DISCR": "Soup laddle small bambo",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2246
+  },
+  {
+    "NUMBER": "1927CD",
+    "DISCR": "Soup laddle small danedar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2246
+  },
+  {
+    "NUMBER": "1927CK",
+    "DISCR": "Soup laddle small kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2095
+  },
+  {
+    "NUMBER": "1927CS",
+    "DISCR": "Soup laddle small",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2246
+  },
+  {
+    "NUMBER": "1927CT",
+    "DISCR": "Soup laddle small taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2246
+  },
+  {
+    "NUMBER": "1927CV",
+    "DISCR": "Soup laddle small",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2246
+  },
+  {
+    "NUMBER": "1927Cd",
+    "DISCR": "Soup laddle small w.border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2449
+  },
+  {
+    "NUMBER": "1927D",
+    "DISCR": "Sauce laddle",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1460
+  },
+  {
+    "NUMBER": "1927DB",
+    "DISCR": "Sauce laddle bambo",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1900
+  },
+  {
+    "NUMBER": "1927DK",
+    "DISCR": "Sauce laddle kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1692
+  },
+  {
+    "NUMBER": "1927DT",
+    "DISCR": "Sauce laddle taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1900
+  },
+  {
+    "NUMBER": "1927Dd",
+    "DISCR": "Sauce laddle w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1902
+  },
+  {
+    "NUMBER": "1927E",
+    "DISCR": "Sauce laddle small",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1334
+  },
+  {
+    "NUMBER": "1927ET",
+    "DISCR": "Sauce laddle small taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1692
+  },
+  {
+    "NUMBER": "1927Ed",
+    "DISCR": "Sauce laddle w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1692
+  },
+  {
+    "NUMBER": "1927G",
+    "DISCR": "Ghee laddle",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 651
+  },
+  {
+    "NUMBER": "1927GK",
+    "DISCR": "Ghee laddle kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 739
+  },
+  {
+    "NUMBER": "1927Gd",
+    "DISCR": "Ghee laddle w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1094
+  },
+  {
+    "NUMBER": "1927H",
+    "DISCR": "Ghee laddle small",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 532
+  },
+  {
+    "NUMBER": "1927Hd",
+    "DISCR": "Ghee laddle w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 963
+  },
+  {
+    "NUMBER": "1929C",
+    "DISCR": "Ogarale",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2797
+  },
+  {
+    "NUMBER": "1929Cd",
+    "DISCR": "Ogarale w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3382
+  },
+  {
+    "NUMBER": "1929D",
+    "DISCR": "Ogarale",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2456
+  },
+  {
+    "NUMBER": "1929Dd",
+    "DISCR": "Ogarale w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3002
+  },
+  {
+    "NUMBER": "1930A",
+    "DISCR": "Oval server",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2574
+  },
+  {
+    "NUMBER": "1930AK",
+    "DISCR": "Oval server kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2779
+  },
+  {
+    "NUMBER": "1930AT",
+    "DISCR": "Oval server taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3270
+  },
+  {
+    "NUMBER": "1930Ad",
+    "DISCR": "Oval server w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3444
+  },
+  {
+    "NUMBER": "1930B",
+    "DISCR": "Oval server small",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2246
+  },
+  {
+    "NUMBER": "1930BB",
+    "DISCR": "Oval server small bamboo",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2798
+  },
+  {
+    "NUMBER": "1930BD",
+    "DISCR": "Oval server small danedar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2798
+  },
+  {
+    "NUMBER": "1930BK",
+    "DISCR": "Oval server small kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2449
+  },
+  {
+    "NUMBER": "1930BS",
+    "DISCR": "Oval server small \"S\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2798
+  },
+  {
+    "NUMBER": "1930BT",
+    "DISCR": "Oval server small taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2798
+  },
+  {
+    "NUMBER": "1930BV",
+    "DISCR": "Oval server small \"V\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2798
+  },
+  {
+    "NUMBER": "1930Bd",
+    "DISCR": "Oval server w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2990
+  },
+  {
+    "NUMBER": "1931A",
+    "DISCR": "Square server",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2574
+  },
+  {
+    "NUMBER": "1931AK",
+    "DISCR": "Square server kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2779
+  },
+  {
+    "NUMBER": "1931AT",
+    "DISCR": "Square server taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3270
+  },
+  {
+    "NUMBER": "1931Ad",
+    "DISCR": "Square server w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3444
+  },
+  {
+    "NUMBER": "1931B",
+    "DISCR": "Square server small",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2246
+  },
+  {
+    "NUMBER": "1931BB",
+    "DISCR": "Square server small bamboo",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2798
+  },
+  {
+    "NUMBER": "1931BD",
+    "DISCR": "square server small danedr",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2798
+  },
+  {
+    "NUMBER": "1931BK",
+    "DISCR": "Square server small kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2449
+  },
+  {
+    "NUMBER": "1931BT",
+    "DISCR": "Square server taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2798
+  },
+  {
+    "NUMBER": "1931BV",
+    "DISCR": "Square server small \"V\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2798
+  },
+  {
+    "NUMBER": "1931Bd",
+    "DISCR": "Square server w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2990
+  },
+  {
+    "NUMBER": "1932T",
+    "DISCR": "Serving fork taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3270
+  },
+  {
+    "NUMBER": "1933",
+    "DISCR": "Triangular cake server",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2574
+  },
+  {
+    "NUMBER": "1933T",
+    "DISCR": "Triangular cake server taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3270
+  },
+  {
+    "NUMBER": "1933d",
+    "DISCR": "Triangular server w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3444
+  },
+  {
+    "NUMBER": "1939B",
+    "DISCR": "SALAD TONG",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3855
+  },
+  {
+    "NUMBER": "2010A",
+    "DISCR": "Table spoon large",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1842
+  },
+  {
+    "NUMBER": "2010AB",
+    "DISCR": "Table spoon large bamboo",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2372
+  },
+  {
+    "NUMBER": "2010AD",
+    "DISCR": "Table spoon large danedar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2372
+  },
+  {
+    "NUMBER": "2010AK",
+    "DISCR": "Table spoon large kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2096
+  },
+  {
+    "NUMBER": "2010AS",
+    "DISCR": "Table spoon large \"S\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2372
+  },
+  {
+    "NUMBER": "2010AT",
+    "DISCR": "Table spoon taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2372
+  },
+  {
+    "NUMBER": "2010Ad",
+    "DISCR": "Table spoon large w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2545
+  },
+  {
+    "NUMBER": "2010B",
+    "DISCR": "Table spoon",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1406
+  },
+  {
+    "NUMBER": "2010BB",
+    "DISCR": "Table spoon bamboo",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1842
+  },
+  {
+    "NUMBER": "2010BD",
+    "DISCR": "Table spoon danedar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1842
+  },
+  {
+    "NUMBER": "2010BK",
+    "DISCR": "Table spoon kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1597
+  },
+  {
+    "NUMBER": "2010BN",
+    "DISCR": "Table spoon nalidar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1597
+  },
+  {
+    "NUMBER": "2010BS",
+    "DISCR": "Table spoon \"S\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1842
+  },
+  {
+    "NUMBER": "2010BT",
+    "DISCR": "Table spoon taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1842
+  },
+  {
+    "NUMBER": "2010BV",
+    "DISCR": "Table spoon \"V\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1842
+  },
+  {
+    "NUMBER": "2010Bd",
+    "DISCR": "Table spoon w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2096
+  },
+  {
+    "NUMBER": "2010C",
+    "DISCR": "Dessert spoon",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1208
+  },
+  {
+    "NUMBER": "2010CB",
+    "DISCR": "Dessert spoon bamboo",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1692
+  },
+  {
+    "NUMBER": "2010CD",
+    "DISCR": "Dessert spoon danedar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1692
+  },
+  {
+    "NUMBER": "2010CK",
+    "DISCR": "Dessert spoon kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1426
+  },
+  {
+    "NUMBER": "2010CN",
+    "DISCR": "Desert spoon nalidar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1426
+  },
+  {
+    "NUMBER": "2010CP",
+    "DISCR": "Dessert spoon \"P\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1692
+  },
+  {
+    "NUMBER": "2010CS",
+    "DISCR": "Desert spoon \"S\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1692
+  },
+  {
+    "NUMBER": "2010CT",
+    "DISCR": "Dinner spoon taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1692
+  },
+  {
+    "NUMBER": "2010CV",
+    "DISCR": "Desert spoon \"V\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1692
+  },
+  {
+    "NUMBER": "2010Cd",
+    "DISCR": "Dessert spoon w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1900
+  },
+  {
+    "NUMBER": "2010D",
+    "DISCR": "Baby spoon",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 990
+  },
+  {
+    "NUMBER": "2010DB",
+    "DISCR": "Baby spoon bamboo",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1262
+  },
+  {
+    "NUMBER": "2010DD",
+    "DISCR": "Baby spoon danedar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1262
+  },
+  {
+    "NUMBER": "2010DK",
+    "DISCR": "Baby spoon kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1034
+  },
+  {
+    "NUMBER": "2010DN",
+    "DISCR": "Baby spoon nalidar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1034
+  },
+  {
+    "NUMBER": "2010DP",
+    "DISCR": "Baby spoon \"P\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1262
+  },
+  {
+    "NUMBER": "2010DS",
+    "DISCR": "Baby spoon \"S\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1262
+  },
+  {
+    "NUMBER": "2010DT",
+    "DISCR": "Baby spoon taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1262
+  },
+  {
+    "NUMBER": "2010DV",
+    "DISCR": "Baby spoon \"V\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1262
+  },
+  {
+    "NUMBER": "2010Dd",
+    "DISCR": "Baby spoon w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1515
+  },
+  {
+    "NUMBER": "2010E",
+    "DISCR": "Tea spoon",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 651
+  },
+  {
+    "NUMBER": "2010EB",
+    "DISCR": "Tea spoon bamboo",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 963
+  },
+  {
+    "NUMBER": "2010ED",
+    "DISCR": "Tea spoon danedar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 963
+  },
+  {
+    "NUMBER": "2010EK",
+    "DISCR": "Tea spoon kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 739
+  },
+  {
+    "NUMBER": "2010EN",
+    "DISCR": "Tea spoon nalidar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 739
+  },
+  {
+    "NUMBER": "2010EP",
+    "DISCR": "Tea spoon \"P\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 963
+  },
+  {
+    "NUMBER": "2010ES",
+    "DISCR": "Tea spoon \"S\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 963
+  },
+  {
+    "NUMBER": "2010ET",
+    "DISCR": "Tea spoon taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 963
+  },
+  {
+    "NUMBER": "2010EV",
+    "DISCR": "Tea spoon \"V\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 963
+  },
+  {
+    "NUMBER": "2010Ed",
+    "DISCR": "Tea spoon w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1116
+  },
+  {
+    "NUMBER": "2010F",
+    "DISCR": "Coffee spoon",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 444
+  },
+  {
+    "NUMBER": "2010FB",
+    "DISCR": "Coffee spoon bamboo",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 825
+  },
+  {
+    "NUMBER": "2010FD",
+    "DISCR": "Coffee spoon danedar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 825
+  },
+  {
+    "NUMBER": "2010FK",
+    "DISCR": "Coffee spoon kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 651
+  },
+  {
+    "NUMBER": "2010FN",
+    "DISCR": "Coffee spoon nalidar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 651
+  },
+  {
+    "NUMBER": "2010FP",
+    "DISCR": "Coffee spoon \"P\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 825
+  },
+  {
+    "NUMBER": "2010FS",
+    "DISCR": "Coffee spoon \"S\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 825
+  },
+  {
+    "NUMBER": "2010FT",
+    "DISCR": "Coffee spoon taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 825
+  },
+  {
+    "NUMBER": "2010FV",
+    "DISCR": "Coffee spoon \"V\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 825
+  },
+  {
+    "NUMBER": "2010Fd",
+    "DISCR": "Coffee spoon w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 888
+  },
+  {
+    "NUMBER": "2010G",
+    "DISCR": "Spoon for supari",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 403
+  },
+  {
+    "NUMBER": "2010Gd",
+    "DISCR": "Spoon for supari w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 621
+  },
+  {
+    "NUMBER": "2012A",
+    "DISCR": "Large table soup spoon",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1842
+  },
+  {
+    "NUMBER": "2012AA",
+    "DISCR": "Table soup spoon extra large",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2246
+  },
+  {
+    "NUMBER": "2012AAd",
+    "DISCR": "Table soup spoon w/bordr",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3007
+  },
+  {
+    "NUMBER": "2012AK",
+    "DISCR": "Table soup spoon Kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2096
+  },
+  {
+    "NUMBER": "2012AT",
+    "DISCR": "Table soup spoon Taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2372
+  },
+  {
+    "NUMBER": "2012Ad",
+    "DISCR": "Table soup spoon w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2545
+  },
+  {
+    "NUMBER": "2012B",
+    "DISCR": "Table soup spoon",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1406
+  },
+  {
+    "NUMBER": "2012BB",
+    "DISCR": "Table soup spoon bamboo",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1842
+  },
+  {
+    "NUMBER": "2012BD",
+    "DISCR": "Table spoup spoon Danedar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1842
+  },
+  {
+    "NUMBER": "2012BK",
+    "DISCR": "Table soup spoon kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1597
+  },
+  {
+    "NUMBER": "2012BT",
+    "DISCR": "Table soup spoon taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1842
+  },
+  {
+    "NUMBER": "2012Bd",
+    "DISCR": "Table soup spoon w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2096
+  },
+  {
+    "NUMBER": "2012C",
+    "DISCR": "Dessert soup spoon",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1208
+  },
+  {
+    "NUMBER": "2012CB",
+    "DISCR": "Dessert soup spoon bamboo",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1426
+  },
+  {
+    "NUMBER": "2012CD",
+    "DISCR": "Dessert soup spoon danedar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1426
+  },
+  {
+    "NUMBER": "2012CK",
+    "DISCR": "Dessert soup spoon kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1426
+  },
+  {
+    "NUMBER": "2012CP",
+    "DISCR": "Dessert soup spoon \"P\":",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1692
+  },
+  {
+    "NUMBER": "2012CS",
+    "DISCR": "Dessert soup spoon \"S\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1426
+  },
+  {
+    "NUMBER": "2012CT",
+    "DISCR": "Dessert soup spoon taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1692
+  },
+  {
+    "NUMBER": "2012CV",
+    "DISCR": "Dessert soup spoon \"V\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1426
+  },
+  {
+    "NUMBER": "2012Cd",
+    "DISCR": "Dessert soup spoon w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1900
+  },
+  {
+    "NUMBER": "2014B",
+    "DISCR": "Table fork",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1406
+  },
+  {
+    "NUMBER": "2014BK",
+    "DISCR": "Table fork kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1597
+  },
+  {
+    "NUMBER": "2014BT",
+    "DISCR": "Table fork taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1842
+  },
+  {
+    "NUMBER": "2014Bd",
+    "DISCR": "Table fork w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2096
+  },
+  {
+    "NUMBER": "2014C",
+    "DISCR": "Dessert fork",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1208
+  },
+  {
+    "NUMBER": "2014CB",
+    "DISCR": "Dessert fork bamboo",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1692
+  },
+  {
+    "NUMBER": "2014CD",
+    "DISCR": "Dessert fork danedar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1692
+  },
+  {
+    "NUMBER": "2014CK",
+    "DISCR": "Dessert fork kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1426
+  },
+  {
+    "NUMBER": "2014CN",
+    "DISCR": "Dessert fork nalidar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1426
+  },
+  {
+    "NUMBER": "2014CP",
+    "DISCR": "Dessert fork \"P\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1692
+  },
+  {
+    "NUMBER": "2014CS",
+    "DISCR": "Dessert fork \"S\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1692
+  },
+  {
+    "NUMBER": "2014CT",
+    "DISCR": "Dinner  fork taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1692
+  },
+  {
+    "NUMBER": "2014CV",
+    "DISCR": "Dessert fork \"V\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1692
+  },
+  {
+    "NUMBER": "2014Cd",
+    "DISCR": "Dessert fork w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1900
+  },
+  {
+    "NUMBER": "2014D",
+    "DISCR": "Baby fork",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 990
+  },
+  {
+    "NUMBER": "2014DB",
+    "DISCR": "Baby fork bamboo",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1262
+  },
+  {
+    "NUMBER": "2014DD",
+    "DISCR": "Baby fork danedar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1262
+  },
+  {
+    "NUMBER": "2014DK",
+    "DISCR": "Baby fork kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1034
+  },
+  {
+    "NUMBER": "2014DN",
+    "DISCR": "Baby fork nalidar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1034
+  },
+  {
+    "NUMBER": "2014DP",
+    "DISCR": "Baby fork \"P\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 3
+  },
+  {
+    "NUMBER": "2014DS",
+    "DISCR": "Baby fork \"S\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1262
+  },
+  {
+    "NUMBER": "2014DT",
+    "DISCR": "Baby fork taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1262
+  },
+  {
+    "NUMBER": "2014DV",
+    "DISCR": "Baby fork \"V\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1262
+  },
+  {
+    "NUMBER": "2014Dd",
+    "DISCR": "Baby fork w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1515
+  },
+  {
+    "NUMBER": "2014E",
+    "DISCR": "Fruit fork",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 651
+  },
+  {
+    "NUMBER": "2014EB",
+    "DISCR": "Fruit fork bamboo",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 963
+  },
+  {
+    "NUMBER": "2014ED",
+    "DISCR": "Fruit fork danedar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 963
+  },
+  {
+    "NUMBER": "2014EK",
+    "DISCR": "Fruit fork kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 739
+  },
+  {
+    "NUMBER": "2014EN",
+    "DISCR": "Fruit fork nalidar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 739
+  },
+  {
+    "NUMBER": "2014EP",
+    "DISCR": "Fruit fork \"P\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 963
+  },
+  {
+    "NUMBER": "2014ES",
+    "DISCR": "Fruit fork \"S\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 963
+  },
+  {
+    "NUMBER": "2014ET",
+    "DISCR": "Fruit fork taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 963
+  },
+  {
+    "NUMBER": "2014EV",
+    "DISCR": "Fruit fork \"V\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 963
+  },
+  {
+    "NUMBER": "2014Ed",
+    "DISCR": "Fruit fork w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1116
+  },
+  {
+    "NUMBER": "2017",
+    "DISCR": "Salad spoon",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1406
+  },
+  {
+    "NUMBER": "2017AB",
+    "DISCR": "Salad spoon bamboo",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2798
+  },
+  {
+    "NUMBER": "2017D",
+    "DISCR": "Salad spoon danedar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1842
+  },
+  {
+    "NUMBER": "2017K",
+    "DISCR": "Salad spoon kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1597
+  },
+  {
+    "NUMBER": "2017S",
+    "DISCR": "Salad spoon \"S\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1842
+  },
+  {
+    "NUMBER": "2017T",
+    "DISCR": "Salad spoon taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1842
+  },
+  {
+    "NUMBER": "2017V",
+    "DISCR": "Salad spoon \"V\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1842
+  },
+  {
+    "NUMBER": "2017d",
+    "DISCR": "Salad spoon w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2096
+  },
+  {
+    "NUMBER": "2018",
+    "DISCR": "Salad fork",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1406
+  },
+  {
+    "NUMBER": "2018AB",
+    "DISCR": "Salad fork Bamboo",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2798
+  },
+  {
+    "NUMBER": "2018D",
+    "DISCR": "Salad fork danedar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1842
+  },
+  {
+    "NUMBER": "2018K",
+    "DISCR": "Salad fork kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1597
+  },
+  {
+    "NUMBER": "2018N",
+    "DISCR": "Salad fork nalidar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1597
+  },
+  {
+    "NUMBER": "2018S",
+    "DISCR": "Salad fork \"S\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1842
+  },
+  {
+    "NUMBER": "2018T",
+    "DISCR": "Salad fork taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1842
+  },
+  {
+    "NUMBER": "2018V",
+    "DISCR": "Salad fork \"V\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1842
+  },
+  {
+    "NUMBER": "2018d",
+    "DISCR": "Salad fork w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2096
+  },
+  {
+    "NUMBER": "2020",
+    "DISCR": "Soda spoon",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1208
+  },
+  {
+    "NUMBER": "2020d",
+    "DISCR": "Soda spoon w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1902
+  },
+  {
+    "NUMBER": "2021",
+    "DISCR": "Icecream spoon",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 651
+  },
+  {
+    "NUMBER": "2021B",
+    "DISCR": "Icecream spoon bamboo",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 963
+  },
+  {
+    "NUMBER": "2021D",
+    "DISCR": "Icecream spoon danedar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 963
+  },
+  {
+    "NUMBER": "2021K",
+    "DISCR": "Icecream spoon kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 739
+  },
+  {
+    "NUMBER": "2021N",
+    "DISCR": "Icecream spoon nalidar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 739
+  },
+  {
+    "NUMBER": "2021S",
+    "DISCR": "Icecream spoon \"S\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 963
+  },
+  {
+    "NUMBER": "2021T",
+    "DISCR": "Icecream spoon taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 963
+  },
+  {
+    "NUMBER": "2021V",
+    "DISCR": "Icecream soon \"V\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 963
+  },
+  {
+    "NUMBER": "2021d",
+    "DISCR": "Icecream spoon w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1116
+  },
+  {
+    "NUMBER": "2024",
+    "DISCR": "Salt spoon",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 307
+  },
+  {
+    "NUMBER": "2024K",
+    "DISCR": "Salt spoon kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 376
+  },
+  {
+    "NUMBER": "2024d",
+    "DISCR": "Salt spoon w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 603
+  },
+  {
+    "NUMBER": "2027",
+    "DISCR": "Dessert knife w/s.s. blade",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1762
+  },
+  {
+    "NUMBER": "2027B",
+    "DISCR": "Dessert knife bamboo",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2298
+  },
+  {
+    "NUMBER": "2027K",
+    "DISCR": "Dessert knife s.s.blade kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2095
+  },
+  {
+    "NUMBER": "2027T",
+    "DISCR": "Dessert knife s.s. blade taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2298
+  },
+  {
+    "NUMBER": "2027d",
+    "DISCR": "Dessert knife w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 2352
+  },
+  {
+    "NUMBER": "2035",
+    "DISCR": "Pastry fork",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 651
+  },
+  {
+    "NUMBER": "2035K",
+    "DISCR": "Pastry fork kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 739
+  },
+  {
+    "NUMBER": "2035T",
+    "DISCR": "Pastry fork taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 963
+  },
+  {
+    "NUMBER": "2035d",
+    "DISCR": "Pastry fork w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1116
+  },
+  {
+    "NUMBER": "2036",
+    "DISCR": "Butter knife",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 651
+  },
+  {
+    "NUMBER": "2036K",
+    "DISCR": "Butter knife kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 777
+  },
+  {
+    "NUMBER": "2036T",
+    "DISCR": "Butter knife Taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 963
+  },
+  {
+    "NUMBER": "2036d",
+    "DISCR": "Butter Knife w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1116
+  },
+  {
+    "NUMBER": "2046",
+    "DISCR": "Dessert knife w/metal blade",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1600
+  },
+  {
+    "NUMBER": "2046B",
+    "DISCR": "Dinner knife bamboo",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1842
+  },
+  {
+    "NUMBER": "2046D",
+    "DISCR": "Dessert knife danedar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1842
+  },
+  {
+    "NUMBER": "2046K",
+    "DISCR": "Dessert knife kamdar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1726
+  },
+  {
+    "NUMBER": "2046N",
+    "DISCR": "Dessert knife nalidar",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1726
+  },
+  {
+    "NUMBER": "2046P",
+    "DISCR": "Dessert knife \"P\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1842
+  },
+  {
+    "NUMBER": "2046S",
+    "DISCR": "Dessert knife \"S\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1842
+  },
+  {
+    "NUMBER": "2046T",
+    "DISCR": "Dessert knife taj",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1842
+  },
+  {
+    "NUMBER": "2046V",
+    "DISCR": "Dessert knife \"V\"",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1842
+  },
+  {
+    "NUMBER": "2046d",
+    "DISCR": "Dessert knife w/border",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 1902
+  },
+  {
+    "NUMBER": "3027A",
+    "DISCR": "Tea pot for 6 cups",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 15090
+  },
+  {
+    "NUMBER": "3027A",
+    "DISCR": "Sugar pot for 4 cups",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5520
+  },
+  {
+    "NUMBER": "3027B",
+    "DISCR": "Tea Set for 4 cups",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 23425
+  },
+  {
+    "NUMBER": "3027C",
+    "DISCR": "Tea pot for 2 cups",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 9468
+  },
+  {
+    "NUMBER": "3027C",
+    "DISCR": "Sugar pot for 2 cups",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 4738
+  },
+  {
+    "NUMBER": "3028A",
+    "DISCR": "Milk pot for 6 cups",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 7545
+  },
+  {
+    "NUMBER": "3028B",
+    "DISCR": "Milk pot for 4 cups",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5520
+  },
+  {
+    "NUMBER": "3028C",
+    "DISCR": "Milk pot for 2 cups",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 4738
+  },
+  {
+    "NUMBER": "3029A",
+    "DISCR": "Sugar pot for 6 cups",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 7545
+  },
+  {
+    "NUMBER": "3051B",
+    "DISCR": "FUGIR TEA POT 4 CC S",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 11814
+  },
+  {
+    "NUMBER": "3052B",
+    "DISCR": "FUGIR MILK FOR 4CC S",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5908
+  },
+  {
+    "NUMBER": "3053B",
+    "DISCR": "FIGIR SUGAR POT 4CC S",
+    "DIA": null,
+    "HEIGHT": null,
+    "PRICE": 5908
+  }
+]
