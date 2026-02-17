@@ -19,6 +19,8 @@ import logoFile from "../assets/logo.png";
 import { Image as RNImage } from "react-native"; // Rename to avoid conflict
 import { Asset } from "expo-asset";
 
+//const LOGO_BASE64 = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAACACAMAAADTa0c4AAAABGdBTUEAALGPC/xhBQAAADNQTFRFxb67w7+8w7+8xL+7xL+7w76+xL+8xL+8xL+8xb29w7+8zLu7xL+8xb+9xr6+AAAAxL+803aQ0AAAABB0Uk5TT2+vj88vX9+fH+8Pv38/AMNxu7cAAAfoSURBVHja7ZuJsqMqEEDZd5D//9rXLCoSTVJ3olbyoO5UxcRROb3QC6Lpfz7QADAADAADwAAwAAwAA8AAMAAMAAPAADAADAADwAAwAAwAA8AAMAAMAAPAADAA9EN4wmId0vlgr3vKoEy5Lwl3ARAu9sOoi9RHs+au6A4AWsX94cIF8xdmc09xPQAh4+FQpxuCKDbnhS8gzNUAwqyAjPpQJK4RXaRi+BXzz5wtySiuBWCr9hvaTRTNaiFP1QFe5l+PEnd8KQBep0n17A6Crx8tvoCAzfdnqzcKn1a45wBQ9XXprgH5sg4u8+XVDth5AHy+wZmuFr22P4NWXWzUceUT6WkLY...";
+
 type Item = {
   NUMBER: string;
   DISCR: string;
@@ -50,15 +52,7 @@ export default function HomeScreen() {
     const saved = await AsyncStorage.getItem("cart");
     if (saved) setCart(JSON.parse(saved));
   }
-// --- RESET FUNCTION ---
-  async function resetCart() {
-    setCart({});
-    setCustomerName("");
-    setPhone("");
-    setSearch("");
-    setSelected(null);
-    await AsyncStorage.removeItem("cart");
-  }
+
   function onSearch(text: string) {
     setSearch(text);
     if (!text) {
@@ -220,12 +214,7 @@ export default function HomeScreen() {
               )}
             </View>
 
-              <View style={{ flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', marginBottom: 15 }}>
-              <Text style={styles.sectionTitle}>Review Cart</Text>
-              <TouchableOpacity onPress={resetCart} style={styles.resetBtn}>
-                <Text style={styles.resetBtnText}>Clear All</Text>
-              </TouchableOpacity>
-            </View>
+            <Text style={styles.sectionTitle}>Review Cart</Text>
 
             {items.length === 0 ? (
               <View style={styles.emptyContainer}>
@@ -306,8 +295,6 @@ const styles = StyleSheet.create({
   primaryBtn: { flex: 1, backgroundColor: "#FF9900", height: 50, borderRadius: 12, justifyContent: "center", alignItems: "center" },
   btnText: { color: "#FFFFFF", fontSize: 16, fontWeight: "800" },
   sectionTitle: { fontSize: 22, fontWeight: "800", color: "#1E293B", marginTop: 10, marginBottom: 15 },
-  resetBtn: { backgroundColor: "#FEE2E2", paddingHorizontal: 12, paddingVertical: 6, borderRadius: 8 },
-  resetBtnText: { color: "#EF4444", fontWeight: "700", fontSize: 14 },
   cartCard: {
     flexDirection: "row",
     alignItems: "center",
