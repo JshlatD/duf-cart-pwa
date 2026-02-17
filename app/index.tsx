@@ -11,7 +11,8 @@ import {
   KeyboardAvoidingView,
   Platform,
 } from "react-native";
-import jsPDF from "jspdf/dist/jspdf.es.min.js";
+//import jsPDF from "jspdf/dist/jspdf.es.min.js";
+import { jsPDF } from "jspdf";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import catalog from "../assets/catalog.json"; // Adjusted path for app/index.tsx
 
