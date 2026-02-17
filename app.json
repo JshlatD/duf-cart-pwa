@@ -17,7 +17,14 @@
       "display": "standalone",
       "themeColor": "#111827",
       "backgroundColor": "#f4f6f8",
-      "description": "DUF Quick Order System"
+      "description": "DUF Quick Order System",
+      "config": {
+        "pwa": {
+          "manifest": {
+            "start_url": "/"
+          }
+        }
+      }
     },
     "plugins": ["expo-router"]
   }

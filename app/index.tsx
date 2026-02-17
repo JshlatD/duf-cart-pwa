@@ -11,12 +11,15 @@ import {
   KeyboardAvoidingView,
   Platform,
 } from "react-native";
-//import jsPDF from "jspdf/dist/jspdf.es.min.js";
-import { jsPDF } from "jspdf";
+import jsPDF from "jspdf/dist/jspdf.es.min.js";
+//import { jsPDF } from "jspdf";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import catalog from "../assets/catalog.json"; // Adjusted path for app/index.tsx
+import logoFile from "../assets/logo.png";
+import { Image as RNImage } from "react-native"; // Rename to avoid conflict
+import { Asset } from "expo-asset";
 
-const LOGO_BASE64 = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAACACAMAAADTa0c4AAAABGdBTUEAALGPC/xhBQAAADNQTFRFxb67w7+8w7+8xL+7xL+7w76+xL+8xL+8xL+8xb29w7+8zLu7xL+8xb+9xr6+AAAAxL+803aQ0AAAABB0Uk5TT2+vj88vX9+fH+8Pv38/AMNxu7cAAAfoSURBVHja7ZuJsqMqEEDZd5D//9rXLCoSTVJ3olbyoO5UxcRROb3QC6Lpfz7QADAADAADwAAwAAwAA8AAMAAMAAPAADAADAADwAAwAAwAA8AAMAAMAAPAADAA9EN4wmId0vlgr3vKoEy5Lwl3ARAu9sOoi9RHs+au6A4AWsX94cIF8xdmc09xPQAh4+FQpxuCKDbnhS8gzNUAwqyAjPpQJK4RXaRi+BXzz5wtySiuBWCr9hvaTRTNaiFP1QFe5l+PEnd8KQBep0n17A6Crx8tvoCAzfdnqzcKn1a45wBQ9XXprgH5sg4u8+XVDth5AHy+wZmuFr22P4NWXWzUceUT6WkLY...";
+//const LOGO_BASE64 = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAACACAMAAADTa0c4AAAABGdBTUEAALGPC/xhBQAAADNQTFRFxb67w7+8w7+8xL+7xL+7w76+xL+8xL+8xL+8xb29w7+8zLu7xL+8xb+9xr6+AAAAxL+803aQ0AAAABB0Uk5TT2+vj88vX9+fH+8Pv38/AMNxu7cAAAfoSURBVHja7ZuJsqMqEEDZd5D//9rXLCoSTVJ3olbyoO5UxcRROb3QC6Lpfz7QADAADAADwAAwAAwAA8AAMAAMAAPAADAADAADwAAwAAwAA8AAMAAMAAPAADAA9EN4wmId0vlgr3vKoEy5Lwl3ARAu9sOoi9RHs+au6A4AWsX94cIF8xdmc09xPQAh4+FQpxuCKDbnhS8gzNUAwqyAjPpQJK4RXaRi+BXzz5wtySiuBWCr9hvaTRTNaiFP1QFe5l+PEnd8KQBep0n17A6Crx8tvoCAzfdnqzcKn1a45wBQ9XXprgH5sg4u8+XVDth5AHy+wZmuFr22P4NWXWzUceUT6WkLY...";
 
 type Item = {
   NUMBER: string;
@@ -98,7 +101,18 @@ export default function HomeScreen() {
 
   function exportPDF() {
     const doc = new jsPDF();
-    doc.addImage(LOGO_BASE64, "PNG", 14, 10, 55, 20);
+
+  // Resolve the URI string from the asset
+  const logoUri = Asset.fromModule(logoFile).uri;
+
+  // Pass the URI string directly
+  doc.addImage(logoUri, "PNG", 14, 10, 55, 25); 
+
+  doc.setFontSize(18);
+    
+   // const logoUri = Image.resolveAssetSource(logoFile).uri;
+   // doc.addImage(logoUri, "PNG", 14, 10, 40, 40);
+   // doc.addImage(logoFile, "PNG", 14, 10, 55, 20);
     doc.setFontSize(18);
     doc.text("QUOTATION", 150, 22);
     doc.rect(14, 38, 182, 22);
