@@ -12,6 +12,8 @@ import {
   Platform,
 } from "react-native";
 import jsPDF from "jspdf/dist/jspdf.es.min.js";
+// ADD THIS IMPORT
+import Head from 'expo-router/head';
 //import { jsPDF } from "jspdf";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import catalog from "../assets/catalog.json"; // Adjusted path for app/index.tsx
@@ -180,6 +182,13 @@ export default function HomeScreen() {
 
   return (
     <SafeAreaView style={styles.safeArea}>
+      {/* THIS SECTION IS THE MISSING BRIDGE TO THE MANIFEST */}
+      <Head>
+        <title>DUF Catalog</title>
+        <link rel="manifest" href="/manifest.json" />
+        <meta name="theme-color" content="#111827" />
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+      </Head>
       <KeyboardAvoidingView behavior={Platform.OS === "ios" ? "padding" : "height"} style={{ flex: 1 }}>
         <View style={styles.container}>
           <ScrollView showsVerticalScrollIndicator={false} contentContainerStyle={{ paddingBottom: 120 }}>
