@@ -188,6 +188,16 @@ export default function HomeScreen() {
         <link rel="manifest" href="/manifest.json" />
         <meta name="theme-color" content="#111827" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+        {/* ADD THIS SCRIPT TO TRIGGER THE INSTALL */}
+        <script>
+          {`
+            if ('serviceWorker' in navigator) {
+              window.addEventListener('load', function() {
+                navigator.serviceWorker.register('/sw.js');
+              });
+            }
+          `}
+        </script>
       </Head>
       <KeyboardAvoidingView behavior={Platform.OS === "ios" ? "padding" : "height"} style={{ flex: 1 }}>
         <View style={styles.container}>
