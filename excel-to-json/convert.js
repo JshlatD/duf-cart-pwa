@@ -18,6 +18,7 @@ async function convert() {
     });
   });
 
+  fs.writeFileSync("catalog.json", JSON.stringify(rows, null, 2));
   fs.writeFileSync("C:/DUF Catlog APP/cartPWA/assets/catalog.json", JSON.stringify(rows, null, 2));
 }
 
