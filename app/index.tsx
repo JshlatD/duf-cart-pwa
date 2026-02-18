@@ -32,6 +32,11 @@ export default function HomeScreen() {
   const [search, setSearch] = useState("");
   const [suggestions, setSuggestions] = useState<Item[]>([]);
   const [selected, setSelected] = useState<Item | null>(null);
+  
+  // States for manual/custom entry
+  const [customDiscr, setCustomDiscr] = useState("");
+  const [customPrice, setCustomPrice] = useState("");
+  
   const [qty, setQty] = useState("1");
   const [cart, setCart] = useState<Record<string, Item & { qty: number }>>({});
   const [customerName, setCustomerName] = useState("");
@@ -50,19 +55,25 @@ export default function HomeScreen() {
     const saved = await AsyncStorage.getItem("cart");
     if (saved) setCart(JSON.parse(saved));
   }
-// --- RESET FUNCTION ---
+
+  // --- RESET FUNCTION ---
   async function resetCart() {
     setCart({});
     setCustomerName("");
     setPhone("");
     setSearch("");
     setSelected(null);
+    setCustomDiscr("");
+    setCustomPrice("");
     await AsyncStorage.removeItem("cart");
   }
+
   function onSearch(text: string) {
     setSearch(text);
     if (!text) {
       setSelected(null);
+      setCustomDiscr("");
+      setCustomPrice("");
       return setSuggestions([]);
     }
     setSuggestions(
@@ -75,21 +86,34 @@ export default function HomeScreen() {
   function selectProduct(p: Item) {
     setSelected(p);
     setSearch(p.NUMBER);
+    setCustomDiscr(p.DISCR);
+    setCustomPrice(String(p.PRICE));
     setSuggestions([]);
   }
 
   function addToCart() {
-    if (!selected) return;
+    // Determine the item ID (Search text or Catalog Number)
+    const itemID = selected ? selected.NUMBER : search;
+    if (!itemID) return;
+
     const q = parseInt(qty) || 1;
+    const p = parseFloat(customPrice) || 0;
+
     setCart(prev => ({
       ...prev,
-      [selected.NUMBER]: {
-        ...selected,
-        qty: (prev[selected.NUMBER]?.qty || 0) + q
+      [itemID]: {
+        NUMBER: itemID,
+        DISCR: customDiscr || itemID,
+        PRICE: p,
+        qty: (prev[itemID]?.qty || 0) + q
       }
     }));
+
+    // Reset entry fields
     setSearch("");
     setSelected(null);
+    setCustomDiscr("");
+    setCustomPrice("");
     setQty("1");
   }
 
@@ -108,17 +132,12 @@ export default function HomeScreen() {
   function exportPDF() {
     const doc = new jsPDF();
 
-  // Resolve the URI string from the asset
-  const logoUri = Asset.fromModule(logoFile).uri;
+    // Resolve the URI string from the asset
+    const logoUri = Asset.fromModule(logoFile).uri;
 
-  // Pass the URI string directly
-  doc.addImage(logoUri, "PNG", 14, 10, 55, 25); 
+    // Pass the URI string directly
+    doc.addImage(logoUri, "PNG", 14, 10, 55, 25); 
 
-  doc.setFontSize(18);
-    
-   // const logoUri = Image.resolveAssetSource(logoFile).uri;
-   // doc.addImage(logoUri, "PNG", 14, 10, 40, 40);
-   // doc.addImage(logoFile, "PNG", 14, 10, 55, 20);
     doc.setFontSize(18);
     doc.text("QUOTATION", 150, 22);
     doc.rect(14, 38, 182, 22);
@@ -142,7 +161,7 @@ export default function HomeScreen() {
       doc.rect(14, y, 182, 10);
       doc.setTextColor(0);
       doc.text(String(i.NUMBER), 16, y + 7);
-      doc.text(String(i.DISCR || ""), 42, y + 7);
+      doc.text(String(i.DISCR || "").substring(0, 32), 42, y + 7);
       doc.text(String(i.PRICE), 112, y + 7);
       doc.text(String(i.qty), 142, y + 7);
       doc.text(String(i.PRICE * i.qty), 162, y + 7);
@@ -161,7 +180,6 @@ export default function HomeScreen() {
           <ScrollView showsVerticalScrollIndicator={false} contentContainerStyle={{ paddingBottom: 120 }}>
             <Text style={styles.headerTitle}>Quick Order</Text>
 
-            {/* Customer Information Card */}
             <View style={styles.card}>
               <Text style={styles.cardLabel}>Customer Details</Text>
               <TextInput
@@ -181,7 +199,6 @@ export default function HomeScreen() {
               />
             </View>
 
-            {/* Search and Add Card */}
             <View style={styles.card}>
               <Text style={styles.cardLabel}>Add Item</Text>
               <TextInput
@@ -202,25 +219,44 @@ export default function HomeScreen() {
                 </View>
               )}
 
-              {selected && (
-                <View style={styles.addActions}>
-                  <View style={styles.qtyWrapper}>
-                    <Text style={{ color: "#64748B", marginBottom: 4 }}>Qty</Text>
-                    <TextInput
-                      style={styles.qtyInput}
-                      keyboardType="numeric"
-                      value={qty}
-                      onChangeText={setQty}
-                    />
-                  </View>
-                  <TouchableOpacity style={styles.primaryBtn} onPress={addToCart}>
-                    <Text style={styles.btnText}>Add to Cart</Text>
-                  </TouchableOpacity>
+              {/* Manual Description and Price Fields */}
+              <View style={{ marginTop: 10 }}>
+                <TextInput
+                  style={styles.input}
+                  placeholder="Item Description"
+                  placeholderTextColor="#94A3B8"
+                  value={customDiscr}
+                  onChangeText={setCustomDiscr}
+                />
+                <View style={{ flexDirection: 'row', gap: 10 }}>
+                  <TextInput
+                    style={[styles.input, { flex: 1 }]}
+                    placeholder="Price"
+                    placeholderTextColor="#94A3B8"
+                    keyboardType="numeric"
+                    value={customPrice}
+                    onChangeText={setCustomPrice}
+                  />
+                  <TextInput
+                    style={[styles.input, { width: 80, textAlign: 'center' }]}
+                    placeholder="Qty"
+                    placeholderTextColor="#94A3B8"
+                    keyboardType="numeric"
+                    value={qty}
+                    onChangeText={setQty}
+                  />
                 </View>
-              )}
+                <TouchableOpacity 
+                  style={[styles.primaryBtn, { opacity: (search || customDiscr) ? 1 : 0.5 }]} 
+                  onPress={addToCart}
+                  disabled={!(search || customDiscr)}
+                >
+                  <Text style={styles.btnText}>Add to Cart</Text>
+                </TouchableOpacity>
+              </View>
             </View>
 
-              <View style={{ flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', marginBottom: 15 }}>
+            <View style={{ flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', marginBottom: 15 }}>
               <Text style={styles.sectionTitle}>Review Cart</Text>
               <TouchableOpacity onPress={resetCart} style={styles.resetBtn}>
                 <Text style={styles.resetBtnText}>Clear All</Text>
