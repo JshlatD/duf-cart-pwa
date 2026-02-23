@@ -40,7 +40,8 @@ export default function HomeScreen() {
   const [customPrice, setCustomPrice] = useState("");
   const [showWarning, setShowWarning] = useState(false); // NEW Warning State
   
-  const [qty, setQty] = useState("1");
+  // UPDATED: Starting with blank quantity
+  const [qty, setQty] = useState("");
   const [cart, setCart] = useState<Record<string, Item & { qty: number }>>({});
   const [customerName, setCustomerName] = useState("");
   const [phone, setPhone] = useState("");
@@ -68,6 +69,7 @@ export default function HomeScreen() {
     setSelected(null);
     setCustomDiscr("");
     setCustomPrice("");
+    setQty(""); // Reset to blank
     setShowWarning(false);
     await AsyncStorage.removeItem("cart");
   }
@@ -105,7 +107,11 @@ export default function HomeScreen() {
     }
 
     const itemID = selected ? selected.NUMBER : search;
-    const q = parseInt(qty) || 1;
+    
+    // UPDATED: Use 1 if quantity is blank or NaN
+    const parsedQty = parseInt(qty);
+    const q = (isNaN(parsedQty) || parsedQty <= 0) ? 1 : parsedQty;
+
     const p = parseFloat(customPrice) || 0;
 
     setCart(prev => ({
@@ -123,7 +129,7 @@ export default function HomeScreen() {
     setSelected(null);
     setCustomDiscr("");
     setCustomPrice("");
-    setQty("1");
+    setQty(""); // Reset to blank
     setShowWarning(false);
   }
 
@@ -168,14 +174,16 @@ export default function HomeScreen() {
       doc.setTextColor(0);
       doc.text(String(i.NUMBER), 16, y + 7);
       doc.text(String(i.DISCR || "").substring(0, 32), 42, y + 7);
-      doc.text(String(i.PRICE), 112, y + 7);
+      
+      // FIXED: Using "Rs." string to avoid gibberish
+      doc.text(`Rs. ${i.PRICE}`, 112, y + 7);
       doc.text(String(i.qty), 142, y + 7);
-      doc.text(String(i.PRICE * i.qty), 162, y + 7);
+      doc.text(`Rs. ${i.PRICE * i.qty}`, 162, y + 7);
       y += 10;
     });
     doc.rect(14, y + 4, 182, 12);
     doc.setFontSize(14);
-    // UPDATED TOTAL WITH RUPEE SYMBOL
+    // UPDATED TOTAL WITH RUPEE STRING
     doc.text(`Total: Rs. ${total}`, 150, y + 13);
     doc.save("quotation.pdf");
   }
@@ -198,6 +206,7 @@ export default function HomeScreen() {
             }
           `}
         </script>
+        
       </Head>
       <KeyboardAvoidingView behavior={Platform.OS === "ios" ? "padding" : "height"} style={{ flex: 1 }}>
         <View style={styles.container}>
